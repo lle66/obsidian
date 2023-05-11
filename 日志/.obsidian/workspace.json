@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "878d63c0a991f95f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5月日志.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +154,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "878d63c0a991f95f",
+  "active": "8b9dfa56c15b2bbf",
   "lastOpenFiles": [
     "5.9 功能演示.md",
     "5月日志.md",
