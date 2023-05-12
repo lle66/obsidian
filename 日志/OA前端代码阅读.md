@@ -54,6 +54,14 @@ JSP 技术允许在页面中嵌套 java 代码，为用户提供动态数据。
 	
 	Spring FORM可在JSP页面中渲染HTML元素的标签  标签库,Spring MVC提供了一个JSP标签库（Spring Form），使将表单元素绑定到Model 数据变得更加容易
 	``<%@ taglib prefix="mvc"  uri="http://www.springframework.org/tags/form" %>
+	属性值：
+		表单标签除了具有 HTML 表单元素属性以外，还具有 acceptCharset、commandName、cssClass、cssStyle、htmlEscape 和 modelAttribute 等属性。
+	-   acceptCharset：定义服务器接受的字符编码列表。
+	-   commandName：暴露表单对象的模型属性名称，默认为 command。
+	-   cssClass：定义应用到 form 元素的 CSS 类。
+	-   cssStyle：定义应用到 form 元素的 CSS 样式。
+	-   htmlEscape：true 或 false，表示是否进行 HTML 转义。
+	-   modelAttribute：暴露 form backing object 的模型属性名称，默认为 command。
 	引入标签声明之后就可使用Spring表单标签
 ```html
 <mvc:form/>
@@ -72,8 +80,22 @@ JSP 技术允许在页面中嵌套 java 代码，为用户提供动态数据。
 	-   modelAttribute
 > 	form绑定的模型属性名称，默认为command
 > 	数据绑定，数据模型定义的工作给了后端代码？
-	`<fmt:message>`标签将键映射到本地化消息并执行参数替换
-	`<%@taglib prefix="fmt" uri="http://www.springframework.org/tags" %> 
+
+1. 将 form 表单与模型数据进行绑定，通过 modelAttribute 属性完成绑定，将 modelAttribute 的值设置为模型数据对应的 key 值。
+
+```
+Handeler:modelAndView.addObject("student",student);
+JSP:<form:form modelAttribute="student">]
+```
+        2.3.form 表单完成绑定之后，将模型数据的值取出绑定到不同的标签中，通过设置标签的 path 属性完成，将 path 属性的值设置为模型数据对应的属性名即可。
+```
+<form:input path="id"/><br/>
+<form:input path="name"/><br/>
+<form:input path="age"/><br/>
+```
+
+
+	<%@taglib prefix="fmt" uri="http://www.springframework.org/tags" %> 
 
 ## 二、代码结构
 ![[1683788110565.png]]
