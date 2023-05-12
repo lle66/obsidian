@@ -49,54 +49,47 @@ JSP 技术允许在页面中嵌套 java 代码，为用户提供动态数据。
 |<%@ page import="java.io.*" %> |定义页面的依赖属性，可以通过`page`指令引入Java类|
 |<%@ include file="header.jsp"%>|使用`include`指令可以引入另一个JSP文件|
 |<%@ taglib ... %>|引入标签库的定义，可以是自定义标签|
-- taglib
-	# Spring MVC的标签库
-	
-	Spring FORM可在JSP页面中渲染HTML元素的标签  标签库,Spring MVC提供了一个JSP标签库（Spring Form），使将表单元素绑定到Model 数据变得更加容易
-	``<%@ taglib prefix="mvc"  uri="http://www.springframework.org/tags/form" %>
-	属性值：
-		表单标签除了具有 HTML 表单元素属性以外，还具有 acceptCharset、commandName、cssClass、cssStyle、htmlEscape 和 modelAttribute 等属性。
-	-   acceptCharset：定义服务器接受的字符编码列表。
-	-   commandName：暴露表单对象的模型属性名称，默认为 command。
-	-   cssClass：定义应用到 form 元素的 CSS 类。
-	-   cssStyle：定义应用到 form 元素的 CSS 样式。
-	-   htmlEscape：true 或 false，表示是否进行 HTML 转义。
-	-   modelAttribute：暴露 form backing object 的模型属性名称，默认为 command。
-	引入标签声明之后就可使用Spring表单标签
-```html
-<mvc:form/>
-<mvc:input/>
-<mvc:password/>
-<mvc:hidden/>
-<mvc:textarea/>
-<mvc:radiobutton/>
-<mvc:checkbox/>
-<mvc:select/>
-<mvc:error/>
-```
-	mvc标签的两个重要属性
-	-   commandName
-> 	form绑定的模型属性名称，默认为command
-	-   modelAttribute
-> 	form绑定的模型属性名称，默认为command
-> 	数据绑定，数据模型定义的工作给了后端代码？
+- taglib 项目中用于多语言实现: 中文、英文、繁体
 
-1. 将 form 表单与模型数据进行绑定，通过 modelAttribute 属性完成绑定，将 modelAttribute 的值设置为模型数据对应的 key 值。
 
-```
-Handeler:modelAndView.addObject("student",student);
-JSP:<form:form modelAttribute="student">]
-```
-        2.3.form 表单完成绑定之后，将模型数据的值取出绑定到不同的标签中，通过设置标签的 path 属性完成，将 path 属性的值设置为模型数据对应的属性名即可。
-```
-<form:input path="id"/><br/>
-<form:input path="name"/><br/>
-<form:input path="age"/><br/>
-```
-项目中用于多语言实现
-
-	<%@taglib prefix="fmt" uri="http://www.springframework.org/tags" %> 
-	<fmt:message code="main.th.AllPasswordsEmpty"/>。
-
-## 二、代码结构
+## 二、项目代码结构
 ![[1683788110565.png]]
+
+## 三、项目依赖库
+### 1. Spring MVC 表单标签库Tag
+项目中用于多语言实现: 中文、英文、繁体
+	```
+	<%@taglib prefix="fmt" uri="http://www.springframework.org/tags" %> 
+	<fmt:message code="main.th.AllPasswordsEmpty"/>
+	```
+### 2.  jsencrypt.js进行RSA加密
+应用场景是在用户注册或登录的时候，用公钥对密码进行加密，再去传给后台，后台用私钥对加密的内容进行解密，然后进行密码校验或者保存到数据库。
+- RSA
+	RSA加密算法是一种非对称加密算法，RSA加密使用了"一对"密钥.分别是公钥和私钥,这个公钥和私钥其实就是一组数字。其长度越长其加密强度越大,目前为止公之于众的能破解的最大长度为768位密钥,只要高于768位,相对就比较安全.所以目前为止,这种加密算法一直被广泛使用.
+	- RSA加密与解密
+		使用**公钥**加密的数据,利用**私钥**进行解密
+		使用**私钥**加密的数据,利用**公钥**进行解密
+- jsencrypt就是一个基于rsa加解密的js库
+```javascript
+// 加密
+	var result = encryptPadding();//向后端请求公钥/利用工具网站在线生成秘钥
+	var encryptor = new JSEncrypt();// 创建加密对象实例
+	encryptor.setPublicKey(result);// 设置公钥
+	var pwd = encryptor.encrypt($('#password').val());// 对内容进行加密
+//解密
+  var decrypt = new JSEncrypt()//创建解密对象实例
+  //之前ssl生成的秘钥
+  var priKey  = '-----BEGIN RSA PRIVATE KEY-----xxx-----END RSA PRIVATE KEY----'
+  decrypt.setPrivateKey(priKey)//设置秘钥
+  var uncrypted = decrypt.decrypt(encrypted)//解密之前拿公钥加密的内容
+``` 
+### 3. JQuery
+jQuery 是一个 JavaScript 函数库, jQuery 库包含以下功能：
+-   HTML 元素选取
+-   HTML 元素操作
+-   CSS 操作
+-   HTML 事件函数
+-   JavaScript 特效和动画
+-   HTML DOM 遍历和修改
+-   AJAX...
+### 4. qrcode.min.js生成二维码
