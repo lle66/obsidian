@@ -93,3 +93,11 @@ jQuery 是一个 JavaScript 函数库, jQuery 库包含以下功能：
 -   HTML DOM 遍历和修改
 -   AJAX...
 ### 4. qrcode.min.js生成二维码
+```js
+$('#qrcode').qrcode({
+	render: "canvas",//设置渲染方式(有两种方式 table和canvas，默认是canvas）
+	width: 100,//二维码宽
+	height:100,//二维码高        
+	text:''//二维码内容(不支持中文…据说是UTF-16格式的编码,中文的话需要转换下, 要不然是乱码)
+ });
+```
