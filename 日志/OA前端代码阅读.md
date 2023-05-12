@@ -93,9 +93,10 @@ JSP:<form:form modelAttribute="student">]
 <form:input path="name"/><br/>
 <form:input path="age"/><br/>
 ```
-
+项目中用于多语言实现
 
 	<%@taglib prefix="fmt" uri="http://www.springframework.org/tags" %> 
+	<fmt:message code="main.th.AllPasswordsEmpty"/>。
 
 ## 二、代码结构
 ![[1683788110565.png]]
