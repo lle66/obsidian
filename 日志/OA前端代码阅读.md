@@ -71,6 +71,7 @@ JSP 技术允许在页面中嵌套 java 代码，为用户提供动态数据。
 > 	form绑定的模型属性名称，默认为command
 	-   modelAttribute
 > 	form绑定的模型属性名称，默认为command
+> 	数据绑定，数据模型定义的工作给了后端代码？
 	`<fmt:message>`标签将键映射到本地化消息并执行参数替换
 	`<%@taglib prefix="fmt" uri="http://www.springframework.org/tags" %> 
 
