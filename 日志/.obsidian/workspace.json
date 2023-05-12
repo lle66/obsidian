@@ -11,6 +11,16 @@
             "id": "8b9dfa56c15b2bbf",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "1683788110565.png"
+              }
+            }
+          },
+          {
+            "id": "dd49d649404814ea",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "OA前端代码阅读.md",
@@ -19,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,16 +165,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8b9dfa56c15b2bbf",
+  "active": "dd49d649404814ea",
   "lastOpenFiles": [
-    "其他/未命名.md",
+    "1683788110565.png",
     "OA前端代码阅读.md",
+    "其他/未命名.md",
     "5月日志.md",
     "oa使用.md",
     "其他/快捷键.md",
     "其他/账号.md",
     "5.9 功能演示.md",
-    "1683788110565.png",
     "待办任务.md",
     "其他/git.md",
     "Q.md",
