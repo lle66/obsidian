@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/账号.md",
+                "file": "ruoyi.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/账号.md",
+                "file": "ruoyi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/账号.md",
+                "file": "ruoyi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/账号.md"
+                "file": "ruoyi.md"
               }
             }
           }
@@ -180,9 +180,10 @@
   },
   "active": "cd34b0c3f8f0e877",
   "lastOpenFiles": [
+    "Q.md",
+    "其他/账号.md",
     "ruoyi.md",
     "其他/git.md",
-    "其他/账号.md",
     "其他/快捷键.md",
     "其他/oa代码.md",
     "待办任务.md",
@@ -191,7 +192,6 @@
     "OA前端代码阅读.md",
     "1683788110565.png",
     "5.9 功能演示.md",
-    "Q.md",
     "其他",
     "工作记录",
     "4.28.md",

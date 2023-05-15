@@ -12,8 +12,19 @@ sentinel >= 1.6.0
 ```
 
 nacos：一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台Windows启动命令(standalone代表着单机模式运行，非集群模式):
+https://www.jianshu.com/p/419b4d91498a
 
 `startup.cmd -m standalone`
+
+maven3.3.9:配置 
+```
+https://blog.csdn.net/Small_Tsky/article/details/106870647
+配置系统变量MAVEN_HOME  D:\tools\apache-maven-3.3.9
+配置Path新建  %MAVEN_HOME%\bin
+mvn -v 查看是否配置成功
+```
+
+
 
 
 相关技术
