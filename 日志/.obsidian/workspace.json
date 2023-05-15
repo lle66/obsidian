@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ruoyi.md",
+                "file": "其他/git.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "59a5e2378786ed0c",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ruoyi.md",
+                "file": "其他/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ruoyi.md",
+                "file": "其他/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ruoyi.md"
+                "file": "其他/git.md"
               }
             }
           }
@@ -179,15 +178,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "92e45a87f682c7d1",
+  "active": "cd34b0c3f8f0e877",
   "lastOpenFiles": [
+    "其他/快捷键.md",
     "其他/账号.md",
-    "ruoyi.md",
-    "5月日志.md",
     "其他/git.md",
     "其他/oa代码.md",
-    "其他/快捷键.md",
     "待办任务.md",
+    "ruoyi.md",
+    "5月日志.md",
     "oa使用.md",
     "OA前端代码阅读.md",
     "1683788110565.png",
