@@ -11,7 +11,10 @@ nacos >= 1.1.0 (ruoyi-cloud >= 3.0.0需要下载nacos >= 2.x.x版本)
 sentinel >= 1.6.0
 ```
 
-nacos：一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台
+nacos：一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台Windows启动命令(standalone代表着单机模式运行，非集群模式):
+
+`startup.cmd -m standalone`
+
 
 相关技术
 1. 
