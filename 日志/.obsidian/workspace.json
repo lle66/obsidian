@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd34b0c3f8f0e877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ruoyi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "59a5e2378786ed0c",
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/账号.md",
+                "file": "ruoyi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/账号.md",
+                "file": "ruoyi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/账号.md"
+                "file": "ruoyi.md"
               }
             }
           }
@@ -153,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,12 +179,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dd49d649404814ea",
+  "active": "92e45a87f682c7d1",
   "lastOpenFiles": [
+    "其他/账号.md",
+    "ruoyi.md",
     "5月日志.md",
     "其他/git.md",
     "其他/oa代码.md",
-    "其他/账号.md",
     "其他/快捷键.md",
     "待办任务.md",
     "oa使用.md",
