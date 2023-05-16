@@ -1,5 +1,5 @@
 RuoYi-Cloud是一款基于Spring Boot、Spring Cloud & Alibaba、Vue、Element的前后端分离微服务极速后台开发框架。
-##  环境搭建
+##  项目环境搭建
 
 ```
 JDK >= 1.8 (推荐1.8版本)
@@ -93,6 +93,8 @@ db.password=xxx
 	-   RuoYFileApplication （文件服务 可选）
 7. 运行ruoyi-ui前端项目，http://localhost 。至此，整个项目启动完成。
 
+## 项目结构
+![[1684224224926.png]]
 ## 前端打包构建
 ```
 # 打包正式环境
