@@ -1,4 +1,4 @@
-RuoYi是一款基于SpringBoot+Bootstrap的极速后台开发框架。内置模块如：部门管理、角色用户、菜单及按钮授权、数据权限、系统参数、日志管理、通知公告等
+RuoYi-Cloud是一款基于Spring Boot、Spring Cloud & Alibaba、Vue、Element的前后端分离微服务极速后台开发框架。
 ##  环境搭建
 
 ```
@@ -12,7 +12,7 @@ sentinel >= 1.6.0
 ```
 
 ### Maven 
-项目管理工具，配合自建的本地库和国内镜像来使用速度也得以提升，能够大大减少我们平时建立项目时导包的麻烦。
+项目管理工具，配合自建的本地库和国内镜像来使用速度也得以提升，能够大大减少建立项目时导包的麻烦。
 
 1. 配置环境变量（maven3.3.9）
 ```
@@ -37,7 +37,7 @@ mvn -v 查看是否配置成功
 <localRepository>D:\toos\apache-maven-3.6.3\repository</localRepository>
 ```
 
-4. idea设置maven路径 setting-->bulid toos---修改仓库所在位置
+4. idea设置maven路径 setting-->bulid tools---修改仓库所在位置
 	Maven项目自带一个pom.xml,这是项目的设置文件，pom.xml中的dependencies部分就是添加依赖的地方
 5. 新建项目/已新建项目右键重新加载maven
 6. 解决maven Could not find artifact org.apache.maven.plugins:maven
@@ -47,16 +47,27 @@ maven---importing以及Runner下添加证书后重启
 -Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true
 ```
 
+### Redis
+Redis 是一个高性能的key-value数据库，很大程度补偿了memcached这类key/value存储的不足。
+1. 启动redis:   
+	``redis-server.exe redis.windows.conf   //redis-server.exe：服务端程序，提供 redis 服务
+2. 执行操作
+	`redis-cli.exe -h 127.0.0.1 -p 6379 //另开一个cmd窗口
+	redis-cli.exe: ,redis命令行工具 ，执行redis命令
+3. 退出
+	通过在redis-server中按下 【ctrl+c】正常退出redis，redis就会将内存中数据持久化到硬盘上，下次在连接的时候还在。
+
 ### Nacos
-一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台Windows启动命令
+Nacos可以实现微服务的服务发现、服务配置、服务元数据及流量管理。可以帮助我们更敏捷和容易地构建、交付和管理微服务平台。
 1. 本地开发下windows版本：https://github.com/alibaba/nacos/releases/tag/1.4.0
-2. 新建nacos数据库
+2. 运行sql脚本，ry-config数据库
 3. 打开conf下的application.properties文件，修改数据库连接
 ```
-db.url.0=jdbc:mysql://127.0.0.1:3306/nacos?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
-&useUnicode=true&useSSL=false&serverTimezone=UTC
+spring.datasource.platform=mysql
+db.num=1
+db.url.0=jdbc:mysql://localhost:3306/ry-config?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true&useUnicode=true&useSSL=false&serverTimezone=UTC
 db.user=root
-db.password=root
+db.password=xxx
 ```
 2. 修改单机模式
 	如果不是部署nacos集群,则将模式修改为单机模式, 打开bin/startup.cmd 文件，将MODE从cluster改为 standalone
@@ -64,22 +75,31 @@ db.password=root
 	修改完后双击bin/startup.cmd文件
 	打开浏览器访问：http://localhost:8848/nacos/index.html
 
-从上往下挨个编辑，把设计到连接Mysql和Redis的所有地方，改为自己对应的用户名和密码。
-ruoyi-system-dev.yml,
-ruoyi-gen-dev.yml
-ruoyi-job-dev.yml
+4. nacos控制台编辑配置
+	从上往下挨个编辑，把设计到连接Mysql和Redis的所有地方，改为自己对应的用户名和密码。
+	ruoyi-system-dev.yml
+	ruoyi-gen-dev.yml
+	ruoyi-job-dev.yml
 
-以网关的配置文件ruoyi-gateway-dev.yml为例
 
-### Redis
-Redis 是一个高性能的key-value数据库。 redis的出现，很大程度补偿了memcached这类key/value存储的不足。
-1. 启动redis:   
-	redis-server.exe redis.windows.conf   //redis-server.exe：服务端程序，提供 redis 服务
-2. 执行操作
-	另开一个cmd窗口：redis-cli.exe -h 127.0.0.1 -p 6379
-	redis-cli.exe: ,redis命令行工具 ，执行redis命令
-3. 退出
-	通过在redis-server中按下 【ctrl+c】正常退出redis，redis就会将内存中数据持久化到硬盘上，下次在连接的时候还在
+6. 运行（在启动nacos、redis的前提下）
+	Idea找到文件，右键一个个运行（（启动没有先后顺序））,启动成功后，可在nacos服务列表中查看。
+	-   RuoYiGatewayApplication （网关模块 必须）
+	-   RuoYiAuthApplication （认证模块 必须）
+	-   RuoYiSystemApplication （系统模块 必须）
+	-   RuoYiMonitorApplication （监控中心 可选）
+	-   RuoYiGenApplication （代码生成 可选）
+	-   RuoYiJobApplication （定时任务 可选）
+	-   RuoYFileApplication （文件服务 可选）
+7. 运行ruoyi-ui前端项目，http://localhost 。至此，整个项目启动完成。
 
+## 前端打包构建
+```
+# 打包正式环境
+npm run build:prod
+
+# 打包预发布环境
+npm run build:stage
+```
 相关技术
 1. 
