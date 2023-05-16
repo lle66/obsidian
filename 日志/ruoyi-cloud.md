@@ -94,7 +94,10 @@ db.password=xxx
 7. 运行ruoyi-ui前端项目，http://localhost 。至此，整个项目启动完成。
 
 ## 项目结构
+1. 整体项目结构
 ![[1684224224926.png]]
+2. 前端项目结构
+
 ## 前端打包构建
 ```
 # 打包正式环境
@@ -106,4 +109,14 @@ npm run build:stage
 相关技术
 1.  scss ​
 	scss​​​ 是两种 ​​css​​​ 预编译语言，就是说通过 ​​less​​​ 或者 ​​scss​​​ 写的代码最终都会被编译成 ​​css​​​ 再使用。
-	
+
+
+二次封装组件
+- Pagination分页组件
+- RightToolbar自定义表格工具组件
+- Editor 富文本组件
+- FileUpload 文件上传组件
+- ImageUpload 图片上传组件
+- ImagePreview 图片预览组件
+- DictTag 字典标签组件
+- DictData 字典数据组件
