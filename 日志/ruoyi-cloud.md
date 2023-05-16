@@ -104,4 +104,6 @@ npm run build:prod
 npm run build:stage
 ```
 相关技术
-1. 
+1.  scss ​
+	scss​​​ 是两种 ​​css​​​ 预编译语言，就是说通过 ​​less​​​ 或者 ​​scss​​​ 写的代码最终都会被编译成 ​​css​​​ 再使用。
+	

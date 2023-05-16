@@ -12,3 +12,6 @@ nvm install v10.16.0 //安装版本
 nvm use 10.16.0
 nvm uninstall vXX
 ```
+git 修改远程仓库
+	git remote rm origin（删除远程地址）
+	git remote add origin [url]
