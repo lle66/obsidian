@@ -11,7 +11,7 @@ nacos >= 1.1.0 (ruoyi-cloud >= 3.0.0需要下载nacos >= 2.x.x版本)
 sentinel >= 1.6.0
 ```
 
-### maven 
+### Maven 
 项目管理工具，配合自建的本地库和国内镜像来使用速度也得以提升，能够大大减少我们平时建立项目时导包的麻烦。
 
 1. 配置环境变量（maven3.3.9）
@@ -47,7 +47,7 @@ maven---importing以及Runner下添加证书后重启
 -Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true
 ```
 
-### nacos
+### Nacos
 一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台Windows启动命令
 1. 本地开发下windows版本：https://github.com/alibaba/nacos/releases/tag/1.4.0
 2. 新建nacos数据库
@@ -64,7 +64,22 @@ db.password=root
 	修改完后双击bin/startup.cmd文件
 	打开浏览器访问：http://localhost:8848/nacos/index.html
 
+从上往下挨个编辑，把设计到连接Mysql和Redis的所有地方，改为自己对应的用户名和密码。
+ruoyi-system-dev.yml,
+ruoyi-gen-dev.yml
+ruoyi-job-dev.yml
 
+以网关的配置文件ruoyi-gateway-dev.yml为例
+
+### Redis
+Redis 是一个高性能的key-value数据库。 redis的出现，很大程度补偿了memcached这类key/value存储的不足。
+1. 启动redis:   
+	redis-server.exe redis.windows.conf   //redis-server.exe：服务端程序，提供 redis 服务
+2. 执行操作
+	另开一个cmd窗口：redis-cli.exe -h 127.0.0.1 -p 6379
+	redis-cli.exe: ,redis命令行工具 ，执行redis命令
+3. 退出
+	通过在redis-server中按下 【ctrl+c】正常退出redis，redis就会将内存中数据持久化到硬盘上，下次在连接的时候还在
 
 相关技术
 1. 
