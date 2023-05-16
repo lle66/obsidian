@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b9dfa56c15b2bbf",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "1683788110565.png"
-              }
-            }
-          },
-          {
             "id": "dd49d649404814ea",
             "type": "leaf",
             "state": {
@@ -35,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ruoyi.md",
+                "file": "其他/快捷键.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "59a5e2378786ed0c",
@@ -117,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ruoyi.md",
+                "file": "其他/账号.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ruoyi.md",
+                "file": "其他/账号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ruoyi.md"
+                "file": "其他/账号.md"
               }
             }
           }
@@ -178,19 +166,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cd34b0c3f8f0e877",
+  "active": "dd49d649404814ea",
   "lastOpenFiles": [
-    "Q.md",
+    "1683788110565.png",
     "其他/账号.md",
-    "ruoyi.md",
-    "其他/git.md",
     "其他/快捷键.md",
+    "ruoyi-cloud.md",
+    "Q.md",
+    "其他/git.md",
     "其他/oa代码.md",
     "待办任务.md",
     "5月日志.md",
     "oa使用.md",
     "OA前端代码阅读.md",
-    "1683788110565.png",
     "5.9 功能演示.md",
     "其他",
     "工作记录",

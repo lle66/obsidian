@@ -20,6 +20,7 @@ MAVEN_HOME  D:\tools\apache-maven-3.3.9 配置系统变量
 %MAVEN_HOME%\bin 配置Path新建 
 mvn -v 查看是否配置成功
 ```
+
 2. 设置maven使用镜像，国内镜像速度更快 (不必须)
 ```
 //conf/setting.xml
@@ -30,18 +31,38 @@ mvn -v 查看是否配置成功
     <url>http://maven.aliyun.com/nexus/content/repositories/central/</url>
 </mirror>
 ```
+
 3. setting.xml 修改仓库所在地址 (不必须)
 ```text
 <localRepository>D:\toos\apache-maven-3.6.3\repository</localRepository>
 ```
+
 4. idea设置maven路径 setting-->bulid toos---修改仓库所在位置
 	Maven项目自带一个pom.xml,这是项目的设置文件，pom.xml中的dependencies部分就是添加依赖的地方
 5. 新建项目/已新建项目右键重新加载maven
-### nacos
-一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台Windows启动命令(standalone代表着单机模式运行，非集群模式):
-https://www.jianshu.com/p/419b4d91498a
+6. 解决maven Could not find artifact org.apache.maven.plugins:maven
+```
+https://blog.csdn.net/qq_54737884/article/details/122429754
+maven---importing以及Runner下添加证书后重启
+-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true
+```
 
-`startup.cmd -m standalone`
+### nacos
+一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台Windows启动命令
+1. 本地开发下windows版本：https://github.com/alibaba/nacos/releases/tag/1.4.0
+2. 新建nacos数据库
+3. 打开conf下的application.properties文件，修改数据库连接
+```
+db.url.0=jdbc:mysql://127.0.0.1:3306/nacos?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
+&useUnicode=true&useSSL=false&serverTimezone=UTC
+db.user=root
+db.password=root
+```
+2. 修改单机模式
+	如果不是部署nacos集群,则将模式修改为单机模式, 打开bin/startup.cmd 文件，将MODE从cluster改为 standalone
+3. 启动
+	修改完后双击bin/startup.cmd文件
+	打开浏览器访问：http://localhost:8848/nacos/index.html
 
 
 
