@@ -120,3 +120,7 @@ npm run build:stage
 - ImagePreview 图片预览组件
 - DictTag 字典标签组件
 - DictData 字典数据组件
+
+
+
+特殊功能---可设计表单，自动生成.vue代码
