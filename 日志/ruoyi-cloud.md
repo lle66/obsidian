@@ -92,8 +92,8 @@ db.password=xxx
 	-   RuoYiJobApplication （定时任务 可选）
 	-   RuoYFileApplication （文件服务 可选）
 7. 运行ruoyi-ui项目
-	npm install
-	npm run dev
+	- npm install
+	- npm run dev
 8. 访问 http://localhost   整个项目本地启动完成。
 
 ## 项目结构
