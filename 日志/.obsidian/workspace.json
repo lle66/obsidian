@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ruoyi-cloud.md",
+                "file": "其他/npm.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(nvm)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ruoyi-cloud.md",
+                "file": "其他/npm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ruoyi-cloud.md",
+                "file": "其他/npm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ruoyi-cloud.md"
+                "file": "其他/npm.md"
               }
             }
           }
@@ -154,24 +154,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "76811772af84a0d5",
+  "active": "dd49d649404814ea",
   "lastOpenFiles": [
-    "Q.md",
-    "ruoyi-cloud.md",
-    "待办任务.md",
-    "其他/webpack.md",
+    "其他/git.md",
+    "其他/npm.md",
+    "5月日志.md",
+    "工作记录/oa代码补充.md",
     "工作记录/OA前端代码阅读.md",
     "工作记录/oa使用.md",
-    "5月日志.md",
-    "其他/git.md",
+    "其他/快捷键.md",
+    "其他/账号.md",
+    "待办任务.md",
+    "ruoyi-cloud.md",
+    "Q.md",
+    "其他/webpack.md",
     "图片/1684224224926.png",
     "图片/1684221697813.png",
-    "工作记录/oa代码补充.md",
     "图片",
     "图片/Pasted image 20230516150542.png",
     "图片/Pasted image 20230516151501.png",
-    "其他/快捷键.md",
-    "其他/账号.md",
     "1683788110565.png",
     "5.9 功能演示.md",
     "其他",
