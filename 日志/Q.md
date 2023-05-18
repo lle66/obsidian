@@ -15,3 +15,9 @@
 	netstat -ano|findstr "6644"
 	//杀死进程
 	tasklist|findstr "PID"
+
+vue 语法
+1. ``v-bind="$attrs"  v-on="$listeners"
+```
+子组件,只接收了name和age两个属性，其他属性没有接收，子组件可使用 v-bind="$attrs" 属性，vm.$attrs` 是一个属性，其包含了父作用域中不作为 prop 被识别 (且获取) 的特性绑定 (class 和 style 除外)。这些未识别的属性可以通过 `v-bind="$attrs"` 传入内部组件。未识别的事件可通过`v-on="$listeners"`传入
+```
