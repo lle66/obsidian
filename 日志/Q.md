@@ -8,10 +8,10 @@
 1. 配置my.in  innodb_strict_mode=0  再输入命令 show variables like '%innodb_strict_mode%';看是否为off
 2. sql-mode="ONLY_FULL_GROUP_BY,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION"
 
-
-### ruoyi项目另一天 得重启redis???
-
-
-所谓清稿，干净准确的誊写本，尤指改正或校订后的文件原稿;又指这一类的复本。
-套红是印刷的一种术语，简单的说：把图片或文字作成单色，在印刷中印上颜色，就是套红。当然，颜色不一定是红色，也可是其他颜色，如：黄、蓝、绿等等。总的说是一种单色印刷！
-XXCCC
+### IDea意外关闭，重新启动端口占用问题
+	//列出所有端口占用情况
+	netstat -ano
+	//找到被占用的端口对应的PID
+	netstat -ano|findstr "6644"
+	//杀死进程
+	tasklist|findstr "PID"
