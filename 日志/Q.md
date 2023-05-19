@@ -27,3 +27,43 @@ vue 语法
 ### 私有云、公有云
 一般买的云服务器都算是公有云，比如你部署了一个项目到阿里云，访问ip地址对所有人都是公开的；私有云就是可以设置防火墙等等网络安全策略，限制只有企业内部用户可以使用（可以理解为把本地机房放在云端）
 
+### eslint 
+安装esling, ctr+p  查找setting.json 添加一下配置
+不生效问题
+1. 编辑区下方无明显显示eslint检测-----eslintIngore 里边给忽略了.vue
+```js
+ //eslint
+    "eslint.format.enable": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "html",
+        "vue",
+        {
+            "language": "html",
+            "autoFix": true
+            },
+            {
+            "language": "vue",
+            "autoFix": true
+            }
+    ],
+    "eslint.options": { //指定eslint配置文件位置
+        "configFile": ".eslintrc.js", //指定项目根目录中的eslint配置文件
+        "extensions": [
+            ".js",
+            ".vue"
+        ]
+    },
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnPaste": false, // required
+    "editor.formatOnType": false, // required
+    "editor.formatOnSave": true, // optional
+    "editor.formatOnSaveMode": "file", // required to format on save
+    "files.autoSave": "onFocusChange", // optional but recommended
+    "vs-code-prettier-eslint.prettierLast": false,
+```
+
