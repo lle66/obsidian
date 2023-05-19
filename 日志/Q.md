@@ -71,3 +71,6 @@
 ### vscode报错解决 类型注释只能在 TypeScript 文件中使用
 	 ctr+p  **输入** **"javascript.validate.enable": false**
 
+### el-date-range 报错Error in v-on handler: "TypeError: Cannot read properties of undefined (reading 'value')"
+
+change方法里面加一层非空判断
