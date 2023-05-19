@@ -16,13 +16,15 @@
 	//杀死进程
 	tasklist|findstr "PID"
 
-vue 语法
+### vue 语法
 1. ``v-bind="$attrs"  v-on="$listeners"
 ```
 子组件,只接收了name和age两个属性，其他属性没有接收，子组件可使用 v-bind="$attrs" 属性，vm.$attrs` 是一个属性，其包含了父作用域中不作为 prop 被识别 (且获取) 的特性绑定 (class 和 style 除外)。这些未识别的属性可以通过 `v-bind="$attrs"` 传入内部组件。未识别的事件可通过`v-on="$listeners"`传入
 ```
 
 ![[1684403546246.png]]
+
+2. v-slot:[name]="data"   简写 #[name]="data"
 
 ### 私有云、公有云
 一般买的云服务器都算是公有云，比如你部署了一个项目到阿里云，访问ip地址对所有人都是公开的；私有云就是可以设置防火墙等等网络安全策略，限制只有企业内部用户可以使用（可以理解为把本地机房放在云端）
@@ -66,4 +68,6 @@ vue 语法
     "files.autoSave": "onFocusChange", // optional but recommended
     "vs-code-prettier-eslint.prettierLast": false,
 ```
+### vscode报错解决 类型注释只能在 TypeScript 文件中使用
+	 ctr+p  **输入** **"javascript.validate.enable": false**
 
