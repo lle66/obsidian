@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/git.md",
+                "file": "其他/账号.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/git.md"
+                "file": "其他/账号.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/git.md",
+                "file": "其他/账号.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/git.md",
+                "file": "其他/账号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,10 +157,10 @@
   },
   "active": "72bca646aed2b602",
   "lastOpenFiles": [
+    "其他/git.md",
     "5月日志.md",
     "图片/1684403546246.png",
     "待办任务.md",
-    "其他/git.md",
     "其他/快捷键.md",
     "小程序/5.26 小程序原型内部沟通会议.md",
     "工作记录/oa使用.md",
