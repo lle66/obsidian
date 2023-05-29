@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "db3c6aced6da0233",
+        "id": "7bc2a6a3792dde79",
         "type": "tabs",
         "children": [
           {
-            "id": "dd49d649404814ea",
+            "id": "72bca646aed2b602",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/快捷键.md",
+                "file": "其他/git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/快捷键.md"
+                "file": "其他/git.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/快捷键.md",
+                "file": "其他/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/快捷键.md",
+                "file": "其他/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +155,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dd49d649404814ea",
+  "active": "72bca646aed2b602",
   "lastOpenFiles": [
     "5月日志.md",
+    "图片/1684403546246.png",
+    "待办任务.md",
+    "其他/git.md",
+    "其他/快捷键.md",
     "小程序/5.26 小程序原型内部沟通会议.md",
     "工作记录/oa使用.md",
     "小程序/纪委小程序需求.md",
@@ -171,15 +175,11 @@
     "其他/小程序需求.md",
     "其他/小程序开发.md",
     "Q.md",
-    "其他/快捷键.md",
-    "待办任务.md",
     "ruoyi-cloud.md",
     "代码/表格组件（数据一次性获取 ）.md",
-    "1684403546246.png",
     "代码/未命名.md",
     "代码",
     "其他/npm.md",
-    "其他/git.md",
     "其他/账号.md",
     "其他/webpack.md",
     "图片/1684224224926.png",
