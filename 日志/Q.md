@@ -74,3 +74,8 @@
 ### el-date-range 报错Error in v-on handler: "TypeError: Cannot read properties of undefined (reading 'value')"
 
 change方法里面加一层非空判断
+
+
+ gitlab  RPC failed; curl 56 Recv failure: Connection was reset
+git config --global http.sslVerify true
+git config --global http.postBuffer 524288000
