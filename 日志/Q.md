@@ -81,3 +81,8 @@ git config --global http.sslVerify true
 git config --global http.postBuffer 524288000
 
 2. gitlab Permission denied, please try again.-----
+
+
+## 小程序
+1.  **app.json: app.json 未找到**
+	"miniprogramRoot": "./unpackage/dist/dev/mp-weixin/",
