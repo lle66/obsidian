@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小程序/小程序开发.md",
+                "file": "其他/账号.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "264cd0bf300d9d1c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "小程序/小程序开发.md"
-              }
+              "state": {}
             }
           },
           {
@@ -115,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "小程序/小程序开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "小程序/小程序开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,18 +160,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "72bca646aed2b602",
+  "active": "264cd0bf300d9d1c",
   "lastOpenFiles": [
+    "其他/账号.md",
+    "小程序/小程序开发.md",
     "Q.md",
     "待办任务.md",
     "5月日志.md",
     "小程序/5.26 小程序原型内部沟通会议.md",
     "小程序/纪委小程序需求.md",
     "小程序/未命名.md",
-    "小程序/小程序开发.md",
     "其他/git.md",
     "其他/webpack.md",
-    "其他/账号.md",
     "图片/1684403546246.png",
     "其他/快捷键.md",
     "工作记录/oa使用.md",
