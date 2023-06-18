@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a0d77e3c77e4eb2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2cb6d39178853ecb",
+  "active": "8a0d77e3c77e4eb2",
   "lastOpenFiles": [
     "日志/Pasted image 20230605154912.png",
     "日志/小程序/5.26 小程序原型内部沟通会议.md",
