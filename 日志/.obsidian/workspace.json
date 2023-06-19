@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5月日志.md",
+                "file": "工作记录/数据可视化.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5月日志.md"
+                "file": "工作记录/数据可视化.md"
               }
             }
           },
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5月日志.md",
+                "file": "工作记录/数据可视化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5月日志.md",
+                "file": "工作记录/数据可视化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,11 +169,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "72bca646aed2b602",
+  "active": "264cd0bf300d9d1c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "5月日志.md",
+    "工作记录/数据可视化.md",
     "57cf8c0fbe287f48766f8fce60e698e.png",
     "小程序/小程序开发.md",
-    "5月日志.md",
     "Pasted image 20230613151045.png",
     "待办任务.md",
     "ruoyi-cloud.md",
