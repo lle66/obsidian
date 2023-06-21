@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作记录/数据可视化删除.md",
+                "file": "工作记录/数据可视化.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作记录/数据可视化删除.md"
+                "file": "工作记录/数据可视化.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作记录/数据可视化删除.md",
+                "file": "工作记录/数据可视化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作记录/数据可视化删除.md",
+                "file": "工作记录/数据可视化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,8 +171,8 @@
   },
   "active": "264cd0bf300d9d1c",
   "lastOpenFiles": [
-    "工作记录/数据可视化.md",
     "工作记录/数据可视化删除.md",
+    "工作记录/数据可视化.md",
     "5月日志.md",
     "小程序/5.26 小程序原型内部沟通会议.md",
     "Pasted image 20230619180825.png",
