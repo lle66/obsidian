@@ -86,3 +86,8 @@ git config --global http.postBuffer 524288000
 ## 小程序
 1.  **app.json: app.json 未找到**
 	"miniprogramRoot": "./unpackage/dist/dev/mp-weixin/",
+
+
+## nginx
+1. 刷新页面404
+web单页面开发模式，只有一个index.html入口，其他路径是前端路由去跳转的，[nginx](https://so.csdn.net/so/search?q=nginx&spm=1001.2101.3001.7020 "nginx")没有对应这个路径，所以就会报404了
