@@ -91,3 +91,28 @@ git config --global http.postBuffer 524288000
 ## nginx
 1. 刷新页面404
 web单页面开发模式，只有一个index.html入口，其他路径是前端路由去跳转的，[nginx](https://so.csdn.net/so/search?q=nginx&spm=1001.2101.3001.7020 "nginx")没有对应这个路径，所以就会报404了
+```
+location / {
+    try_files $uri $uri/ /index.html;
+    }
+```
+
+```
+//完整写法
+  server {
+    listen 81;
+    location / {
+      root /opt/web/notice-web/dist;
+      try_files $uri $uri/ /index.html;
+    }
+    location /prod-api {
+      proxy_pass https://127.0.0.1:19999/;
+      proxy_set_header Host $host;
+      proxy_set_header X-Real-IP $remote_addr;
+      proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+      proxy_set_header X-Forwarded-Host $http_host;
+      proxy_set_header X-Forwarded-Port $server_port;
+      proxy_set_header X-Forwarded-Proto $scheme;
+    }
+  }
+```
