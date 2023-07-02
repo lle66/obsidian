@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/工作记录/数据可视化.md",
+                "file": "日志/日志/5-6月日志.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/工作记录/数据可视化.md",
+                "file": "日志/日志/5-6月日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/工作记录/数据可视化.md",
+                "file": "日志/日志/5-6月日志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/工作记录/数据可视化.md"
+                "file": "日志/日志/5-6月日志.md"
               }
             }
           }
@@ -148,22 +148,26 @@
   },
   "active": "66ed958899715109",
   "lastOpenFiles": [
+    "日志/工作记录/数据可视化.md",
+    "日志/5月日志.md",
+    "日志/日志/5-6月日志.md",
+    "日志/日志",
+    "日志/技术Q.md",
+    "日志/待办/nginx配置有问题.md",
+    "日志/待办",
+    "日志/Pasted image 20230630102522.png",
     "日志/图片/Pasted image 20230619174211.png",
     "日志/图片/Pasted image 20230613151045.png",
     "日志/图片/Pasted image 20230605154912.png",
     "日志/图片/57cf8c0fbe287f48766f8fce60e698e.png",
     "日志/其他/ruoyi-cloud.md",
     "日志/工作记录/数据可视化删除.md",
-    "日志/5月日志.md",
-    "日志/工作记录/数据可视化.md",
     "日志/Pasted image 20230619180825.png",
     "日志/Pasted image 20230619180115.png",
     "日志/Pasted image 20230619174211.png",
     "日志/57cf8c0fbe287f48766f8fce60e698e.png",
     "日志/Pasted image 20230613151045.png",
-    "日志/Pasted image 20230605154912.png",
     "日志/小程序/5.26 小程序原型内部沟通会议.md",
-    "日志/图片/1684403546246.png",
     "日志/其他/常识.md",
     "日志/代码/css.md",
     "日志/小程序/小程序开发.md",
