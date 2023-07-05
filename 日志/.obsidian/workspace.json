@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作记录/OA公文部分需求.md",
+                "file": "日志/7月.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作记录/OA公文部分需求.md"
+                "file": "日志/7月.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作记录/OA公文部分需求.md",
+                "file": "日志/7月.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作记录/OA公文部分需求.md",
+                "file": "日志/7月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,8 +157,10 @@
   },
   "active": "264cd0bf300d9d1c",
   "lastOpenFiles": [
-    "日志/7月.md",
     "日志/5-6月日志.md",
+    "日志/7月.md",
+    "小程序/5.26 小程序原型内部沟通会议.md",
+    "小程序/小程序开发.md",
     "工作记录/OA公文部分需求.md",
     "Pasted image 20230704141511.png",
     "Pasted image 20230704140549.png",
@@ -181,10 +183,8 @@
     "Pasted image 20230619180115.png",
     "其他/常识.md",
     "工作记录/数据可视化删除.md",
-    "小程序/5.26 小程序原型内部沟通会议.md",
     "图片/Pasted image 20230619174211.png",
     "小程序/纪委小程序需求.md",
-    "小程序/小程序开发.md",
     "conflict-files-obsidian-git.md",
     "图片/57cf8c0fbe287f48766f8fce60e698e.png",
     "图片/Pasted image 20230613151045.png",
