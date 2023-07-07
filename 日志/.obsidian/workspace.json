@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7bc2a6a3792dde79",
+        "id": "4a4fbdccf518a89a",
         "type": "tabs",
         "children": [
           {
-            "id": "264cd0bf300d9d1c",
+            "id": "f969ff586ab8763f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/7月.md",
+                "file": "技术Q.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/7月.md"
+                "file": "技术Q.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/7月.md",
+                "file": "技术Q.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/7月.md",
+                "file": "技术Q.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,21 +155,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "264cd0bf300d9d1c",
+  "active": "f969ff586ab8763f",
   "lastOpenFiles": [
-    "工作记录/季度总结.md",
-    "日志/7月.md",
-    "工作记录/数据可视化.md",
     "日志/5-6月日志.md",
-    "小程序/5.26 小程序原型内部沟通会议.md",
-    "小程序/小程序开发.md",
-    "工作记录/OA公文部分需求.md",
-    "Pasted image 20230704141511.png",
-    "Pasted image 20230704140549.png",
-    "技术Q.md",
     "待办任务.md",
-    "Pasted image 20230630102522.png",
+    "技术Q.md",
+    "小程序/小程序开发.md",
+    "小程序/未命名.md",
     "待办/nginx配置有问题.md",
+    "图片/Pasted image 20230704141511.png",
+    "Pasted image 20230704140549.png",
+    "Pasted image 20230630102522.png",
+    "日志/7月.md",
+    "工作记录/季度总结.md",
+    "工作记录/数据可视化.md",
+    "小程序/5.26 小程序原型内部沟通会议.md",
+    "工作记录/OA公文部分需求.md",
     "待办",
     "代码/表格组件（数据一次性获取 ）.md",
     "日志",
@@ -189,13 +190,11 @@
     "conflict-files-obsidian-git.md",
     "图片/57cf8c0fbe287f48766f8fce60e698e.png",
     "图片/Pasted image 20230613151045.png",
-    "小程序/未命名.md",
     "代码/css.md",
     "其他/git.md",
     "其他/webpack.md",
     "图片/1684403546246.png",
     "小程序",
-    "其他/纪委小程序需求.md",
     "代码",
     "图片",
     "其他",
