@@ -11,8 +11,13 @@
             "id": "2a1324d42a4b7b69",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日志/7月.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日志/7月.md"
+              }
             }
           },
           {
@@ -108,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日志/7月.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日志/7月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,11 +157,11 @@
   },
   "active": "2a1324d42a4b7b69",
   "lastOpenFiles": [
+    "技术Q.md",
     "小程序/小程序开发.md",
     "日志/7月.md",
     "阅读/墨菲定律.md",
     "阅读",
-    "技术Q.md",
     "日志/5-6月日志.md",
     "待办任务.md",
     "小程序/未命名.md",
