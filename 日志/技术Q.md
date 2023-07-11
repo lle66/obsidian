@@ -75,13 +75,27 @@
 Error in v-on handler: "TypeError: Cannot read properties of undefined (reading 'value')"
 change方法里面加一层非空判断
 
-## gitlab提交报错
-1. RPC failed; curl 56 Recv failure: Connection was reset
+## gitlab初次提交报错
+```
+RPC failed; curl 56 Recv failure: Connection was reset
+send-pack: unexpected disconnect while reading sideband packet
+```
+
+1. 尝试1--无效
+```
 git config --global http.sslVerify true
 git config --global http.postBuffer 524288000
+```
+2.  有效解决办法
+```
+windows系统解决：依次运行
+set GIT_TRACE_PACKET=1  //为网络操作启用数据包级跟踪
+set GIT_TRACE=1  // 用于启用 Git 操作的跟踪功能
+set GIT_CURL_VERBOSE=1 // 用于启用 Git 使用的 Curl 库的详细日志输出
+git config --global core.compression 0   //设置压缩机别 0表示无压缩，-1为zlib默认压缩值，而1-9是速度大小集中的方案，最慢的是9
 
-2. gitlab Permission denied, please try again.-----
-
+链接：https://stackoverflow.com/questions/66366582/github-unexpected-disconnect-while-reading-sideband-packet
+```
 
 ## 小程序
 1.  **app.json: app.json 未找到**
