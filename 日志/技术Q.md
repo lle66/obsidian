@@ -92,7 +92,7 @@ windows系统解决：依次运行
 set GIT_TRACE_PACKET=1  //为网络操作启用数据包级跟踪
 set GIT_TRACE=1  // 用于启用 Git 操作的跟踪功能
 set GIT_CURL_VERBOSE=1 // 用于启用 Git 使用的 Curl 库的详细日志输出
-git config --global core.compression 0   //设置压缩机别 0表示无压缩，-1为zlib默认压缩值，而1-9是速度大小集中的方案，最慢的是9
+git config --global core.compression 0   //设置压缩机别 0表示无压缩，-1为zlib默认压缩值，而1-9是速度大小集中的方案，最慢的是9------实测真正生效
 
 链接：https://stackoverflow.com/questions/66366582/github-unexpected-disconnect-while-reading-sideband-packet
 ```
