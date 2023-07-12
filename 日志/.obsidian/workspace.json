@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/账号.md",
+                "file": "工作记录/oa使用.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/账号.md"
+                "file": "工作记录/oa使用.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/账号.md",
+                "file": "工作记录/oa使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/账号.md",
+                "file": "工作记录/oa使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +158,11 @@
   "active": "2a1324d42a4b7b69",
   "lastOpenFiles": [
     "工作记录/OA公文部分需求.md",
+    "其他/快捷键.md",
+    "其他/npm.md",
+    "其他/账号.md",
     "技术Q.md",
     "日志/5-6月日志.md",
-    "其他/账号.md",
     "其他/git.md",
     "待办任务.md",
     "日志/7月.md",
@@ -179,7 +181,6 @@
     "待办",
     "代码/表格组件（数据一次性获取 ）.md",
     "日志",
-    "其他/快捷键.md",
     "工作记录/oa代码补充.md",
     "工作记录/OA前端代码阅读.md",
     "工作记录/oa使用.md",
@@ -194,7 +195,6 @@
     "conflict-files-obsidian-git.md",
     "图片/57cf8c0fbe287f48766f8fce60e698e.png",
     "图片/Pasted image 20230613151045.png",
-    "代码/css.md",
     "图片/1684403546246.png",
     "小程序",
     "代码",
