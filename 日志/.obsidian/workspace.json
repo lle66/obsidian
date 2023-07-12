@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作记录/oa使用.md",
+                "file": "其他/git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#精确找到被占用的端口对应的PID",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作记录/oa使用.md"
+                "file": "其他/git.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作记录/oa使用.md",
+                "file": "其他/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作记录/oa使用.md",
+                "file": "其他/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,15 +157,17 @@
   },
   "active": "2a1324d42a4b7b69",
   "lastOpenFiles": [
-    "工作记录/OA公文部分需求.md",
+    "其他/账号.md",
+    "日志/7月.md",
+    "小程序/纪委小程序需求.md",
+    "工作记录/OA公文+督办部分需求.md",
+    "工作记录/oa使用.md",
     "其他/快捷键.md",
     "其他/npm.md",
-    "其他/账号.md",
     "技术Q.md",
     "日志/5-6月日志.md",
     "其他/git.md",
     "待办任务.md",
-    "日志/7月.md",
     "工作记录/OA公文原型确认沟通.md",
     "小程序/小程序开发.md",
     "阅读/墨菲定律.md",
@@ -183,7 +185,6 @@
     "日志",
     "工作记录/oa代码补充.md",
     "工作记录/OA前端代码阅读.md",
-    "工作记录/oa使用.md",
     "其他/ruoyi-cloud.md",
     "图片/Pasted image 20230605154912.png",
     "Pasted image 20230619180825.png",
@@ -191,7 +192,6 @@
     "其他/常识.md",
     "工作记录/数据可视化删除.md",
     "图片/Pasted image 20230619174211.png",
-    "小程序/纪委小程序需求.md",
     "conflict-files-obsidian-git.md",
     "图片/57cf8c0fbe287f48766f8fce60e698e.png",
     "图片/Pasted image 20230613151045.png",
