@@ -75,6 +75,7 @@ JSP 技术允许在页面中嵌套 java 代码，为用户提供动态数据。
 	```
 	<%@taglib prefix="fmt" uri="http://www.springframework.org/tags" %> 
 	<fmt:message code="main.th.AllPasswordsEmpty"/>
+	在开发项目中遇见设置文件编码格式为UTF-8，但是打开该文件出现类似\u7528这样的数据，看也看不懂，也不是平常见到的乱码。这里的\u7528类似的数据，其中'\u'表示[UNICODE]编码，其实数据就是对应的UTF-8下的汉字
 	```
 -  2.  jsencrypt.js进行RSA加密
 	应用场景是在用户注册或登录的时候，用公钥对密码进行加密，再去传给后台，后台用私钥对加密的内容进行解密，然后进行密码校验或者保存到数据库。
