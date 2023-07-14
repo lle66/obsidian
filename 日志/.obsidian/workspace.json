@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/7月.md"
+                "file": "工作记录/OA前端代码阅读.md"
               }
             }
           },
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/7月.md",
+                "file": "工作记录/OA前端代码阅读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/7月.md",
+                "file": "工作记录/OA前端代码阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,10 +169,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2a1324d42a4b7b69",
+  "active": "3e3d3d059cbcbe53",
   "lastOpenFiles": [
-    "工作记录/OA前端代码阅读.md",
     "日志/7月.md",
+    "工作记录/OA前端代码阅读.md",
     "技术Q.md",
     "待办任务.md",
     "其他/快捷键.md",
