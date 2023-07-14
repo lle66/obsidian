@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/7月.md",
+                "file": "工作记录/OA前端代码阅读.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +168,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3e3d3d059cbcbe53",
+  "active": "2a1324d42a4b7b69",
   "lastOpenFiles": [
     "工作记录/OA前端代码阅读.md",
     "日志/7月.md",
