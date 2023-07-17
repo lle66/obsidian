@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "待办/个人规划.md",
+                "file": "Pasted image 20230716234509.png.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/账号.md",
+                "file": "待办/个人规划.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,12 +169,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2a1324d42a4b7b69",
+  "active": "3e3d3d059cbcbe53",
   "lastOpenFiles": [
-    "日志/7月.md",
+    "其他/账号.md",
+    "Pasted image 20230716234509.png.md",
     "Pasted image 20230717135409.png",
     "待办/个人规划.md",
-    "其他/账号.md",
+    "日志/7月.md",
     "其他/git.md",
     "工作记录/OA前端代码阅读.md",
     "技术Q.md",
@@ -204,7 +206,6 @@
     "图片/Pasted image 20230605154912.png",
     "Pasted image 20230619180825.png",
     "Pasted image 20230619180115.png",
-    "其他/常识.md",
     "图片/Pasted image 20230619174211.png",
     "图片/57cf8c0fbe287f48766f8fce60e698e.png",
     "图片/Pasted image 20230613151045.png",
