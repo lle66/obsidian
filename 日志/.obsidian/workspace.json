@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "320afa42cd73c1ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日志/7月.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5d299a03b8cc1ba2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "待办/个人规划.md",
+                "file": "日志/7月.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 323.5124969482422
   },
   "right": {
     "id": "59a5e2378786ed0c",
@@ -168,16 +155,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "76811772af84a0d5",
+  "active": "5d299a03b8cc1ba2",
   "lastOpenFiles": [
+    "工作记录/资产管理需求调研会议.md",
+    "待办/nginx配置有问题.md",
     "待办/个人规划.md",
-    "1689672482301.png",
-    "1689672201243.png",
-    "1689671798813.png",
+    "小程序/小程序原型内部沟通会议.md",
+    "工作记录/数据可视化删除.md",
     "日志/7月.md",
+    "图片/1689672482301.png",
+    "图片/1689672201243.png",
+    "图片/1689671798813.png",
     "其他/账号.md",
-    "Pasted image 20230716234509.png.md",
-    "Pasted image 20230717135409.png",
+    "图片/Pasted image 20230716234509.png.md",
+    "图片/Pasted image 20230717135409.png",
     "其他/git.md",
     "工作记录/OA前端代码阅读.md",
     "技术Q.md",
@@ -193,18 +184,15 @@
     "阅读/墨菲定律.md",
     "阅读",
     "小程序/未命名.md",
-    "待办/nginx配置有问题.md",
     "图片/Pasted image 20230704141511.png",
     "Pasted image 20230704140549.png",
     "Pasted image 20230630102522.png",
     "工作记录/季度总结.md",
     "工作记录/数据可视化.md",
-    "小程序/5.26 小程序原型内部沟通会议.md",
     "待办",
     "代码/表格组件（数据一次性获取 ）.md",
     "日志",
     "工作记录/oa代码补充.md",
-    "其他/ruoyi-cloud.md",
     "图片/Pasted image 20230605154912.png",
     "Pasted image 20230619180825.png",
     "Pasted image 20230619180115.png",
