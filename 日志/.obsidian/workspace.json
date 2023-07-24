@@ -24,17 +24,9 @@
             "id": "d654b20cb551d000",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "763aa7df5b52a50f",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "特踏实.md",
+                "file": "日志/7月.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -42,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "特踏实.md"
+                "file": "日志/7月.md"
               }
             }
           },
@@ -137,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "特踏实.md",
+                "file": "日志/7月.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "特踏实.md",
+                "file": "日志/7月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +169,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "763aa7df5b52a50f",
+  "active": "d654b20cb551d000",
   "lastOpenFiles": [
     "特踏实.md",
+    "工具",
     "日志/7月.md",
     "工作记录/资产管理需求调研会议.md",
     "待办/nginx配置有问题.md",
@@ -213,7 +206,6 @@
     "工作记录/季度总结.md",
     "工作记录/数据可视化.md",
     "待办",
-    "代码/表格组件（数据一次性获取 ）.md",
     "日志",
     "图片/Pasted image 20230605154912.png",
     "Pasted image 20230619180825.png",
