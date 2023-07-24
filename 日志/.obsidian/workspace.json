@@ -19,8 +19,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d654b20cb551d000",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "763aa7df5b52a50f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "特踏实.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/7月.md"
+                "file": "特踏实.md"
               }
             }
           },
@@ -115,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/7月.md",
+                "file": "特踏实.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/7月.md",
+                "file": "特踏实.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,14 +177,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5d299a03b8cc1ba2",
+  "active": "763aa7df5b52a50f",
   "lastOpenFiles": [
+    "特踏实.md",
+    "日志/7月.md",
     "工作记录/资产管理需求调研会议.md",
     "待办/nginx配置有问题.md",
     "待办/个人规划.md",
     "小程序/小程序原型内部沟通会议.md",
     "工作记录/数据可视化删除.md",
-    "日志/7月.md",
     "图片/1689672482301.png",
     "图片/1689672201243.png",
     "图片/1689671798813.png",
@@ -192,7 +215,6 @@
     "待办",
     "代码/表格组件（数据一次性获取 ）.md",
     "日志",
-    "工作记录/oa代码补充.md",
     "图片/Pasted image 20230605154912.png",
     "Pasted image 20230619180825.png",
     "Pasted image 20230619180115.png",
