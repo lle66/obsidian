@@ -9,7 +9,7 @@
   "highDPIDiagrams": true,
   "pandoc": "C:\\Users\\Administrator\\AppData\\Local\\Pandoc\\pandoc.exe",
   "pdflatex": null,
-  "outputFolder": null,
+  "outputFolder": "C:\\Users\\Administrator\\Desktop\\ob\\export",
   "extraArguments": "",
   "exportFrom": "html"
 }
