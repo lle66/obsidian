@@ -32,8 +32,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a27f1766614ebff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "待办/信息安全.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "待办/信息安全.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "待办/信息安全.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,10 +173,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5d299a03b8cc1ba2",
+  "active": "1a27f1766614ebff",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "待办/信息安全.md",
+    "conflict-files-obsidian-git.md",
     "日志/7月.md",
     "待办/个人规划.md",
     "工作记录/季度总结.md",
