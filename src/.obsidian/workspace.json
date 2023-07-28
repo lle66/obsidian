@@ -11,9 +11,12 @@
             "id": "5d299a03b8cc1ba2",
             "type": "leaf",
             "state": {
-              "type": "mindmapView",
+              "type": "markdown",
               "state": {
-                "file": "未命名思维导图.md"
+                "file": "其他/快捷键.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -29,22 +32,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1a27f1766614ebff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日志/7月.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/7月.md"
+                "file": "其他/快捷键.md"
               }
             }
           },
@@ -139,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/7月.md",
+                "file": "其他/快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/7月.md",
+                "file": "其他/快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,32 +168,32 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1a27f1766614ebff",
+  "active": "5d299a03b8cc1ba2",
   "lastOpenFiles": [
-    "Pasted image 20230727163222.png",
     "未命名思维导图.md",
-    "待办/信息安全.md",
     "待办/个人规划.md",
-    "conflict-files-obsidian-git.md",
+    "Pasted image 20230726172129.png",
+    "Pasted image 20230725113026.png",
+    "Pasted image 20230716234444.png.md",
+    "Pasted image 20230725113037.png",
     "日志/7月.md",
+    "Pasted image 20230727163222.png",
+    "待办/信息安全.md",
+    "conflict-files-obsidian-git.md",
     "工作记录/季度总结.md",
     "工作记录/数据可视化.md",
     "其他/npm.md",
     "其他/mac.md",
-    "Pasted image 20230726172129.png",
     "工作记录/资产管理需求调研会议.md",
     "工作记录/oa代码补充.md",
     "工作记录/OA公文+督办部分需求.md",
     "工作记录/OA公文原型确认沟通.md",
-    "Pasted image 20230716234444.png.md",
     "待办/dc.md",
     "生活事件/劳务纠纷.md",
     "生活事件",
     "图片/Camera_XHS_16902931565531000g0082o3a5qn6js0605nv48phg8470imus418.jpg",
     "日志/5-6月.md",
     "其他/常识.md",
-    "Pasted image 20230725113037.png",
-    "Pasted image 20230725113026.png",
     "待办任务.md",
     "其他/快捷键.md",
     "工具/excel.md",
@@ -219,7 +208,6 @@
     "图片/Pasted image 20230717135409.png",
     "阅读",
     "图片/Pasted image 20230704141511.png",
-    "Pasted image 20230704140549.png",
     "待办",
     "日志",
     "小程序",
