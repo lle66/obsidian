@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "待办/信息安全.md",
+                "file": "技术Q.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "私有",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "待办/信息安全.md"
+                "file": "待办/个人规划.md"
               }
             }
           },
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "待办/信息安全.md",
+                "file": "待办/个人规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "待办/信息安全.md",
+                "file": "待办/个人规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,8 +170,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5d299a03b8cc1ba2",
+  "active": "0a5a95349c798ef6",
   "lastOpenFiles": [
+    "技术Q.md",
+    "待办/个人规划.md",
+    "待办/信息安全.md",
     "日志/7月.md",
     "工作记录/office在线编辑调研.md",
     "Pasted image 20230728111954.png",
@@ -178,12 +183,10 @@
     "Pasted image 20230728112206.png",
     "其他/快捷键.md",
     "未命名思维导图.md",
-    "待办/个人规划.md",
     "Pasted image 20230725113026.png",
     "Pasted image 20230716234444.png.md",
     "Pasted image 20230725113037.png",
     "Pasted image 20230727163222.png",
-    "待办/信息安全.md",
     "conflict-files-obsidian-git.md",
     "工作记录/季度总结.md",
     "工作记录/数据可视化.md",
@@ -205,7 +208,6 @@
     "特踏实.md",
     "工具",
     "待办/nginx配置有问题.md",
-    "小程序/小程序原型内部沟通会议.md",
     "图片/1689672482301.png",
     "图片/1689672201243.png",
     "阅读",
