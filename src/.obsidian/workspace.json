@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作记录/人力资源.md",
+                "file": "工作记录/人力资源需求调研.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "私有",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作记录/人力资源.md"
+                "file": "工作记录/人力资源需求调研.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作记录/人力资源.md",
+                "file": "工作记录/人力资源需求调研.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作记录/人力资源.md",
+                "file": "工作记录/人力资源需求调研.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,17 +170,22 @@
   },
   "active": "0a5a95349c798ef6",
   "lastOpenFiles": [
+    "工作记录/office在线编辑调研.md",
     "日志/7月.md",
-    "工作记录/人力资源.md",
+    "Pasted image 20230728112206.png",
+    "Pasted image 2020230728112206.png.md",
+    "Pasted image 20230728111954.md",
+    "Pasted image 20230726172129.png",
+    "Pasted image 20230728111913.png",
+    "Pasted image 20230728111954.png",
+    "工作记录/数据可视化.md",
+    "工作记录/OA前端代码阅读.md",
+    "其他/文字游戏.md",
+    "工作记录/人力资源需求调研.md",
     "日志/8月.md",
     "待办/个人规划.md",
     "技术Q.md",
     "待办/信息安全.md",
-    "工作记录/office在线编辑调研.md",
-    "Pasted image 20230728111954.png",
-    "Pasted image 20230728111913.png",
-    "Pasted image 20230726172129.png",
-    "Pasted image 20230728112206.png",
     "其他/快捷键.md",
     "未命名思维导图.md",
     "Pasted image 20230725113026.png",
@@ -189,7 +194,6 @@
     "Pasted image 20230727163222.png",
     "conflict-files-obsidian-git.md",
     "工作记录/季度总结.md",
-    "工作记录/数据可视化.md",
     "其他/npm.md",
     "其他/mac.md",
     "工作记录/资产管理需求调研会议.md",
@@ -200,11 +204,6 @@
     "生活事件/劳务纠纷.md",
     "生活事件",
     "图片/Camera_XHS_16902931565531000g0082o3a5qn6js0605nv48phg8470imus418.jpg",
-    "日志/5-6月.md",
-    "其他/常识.md",
-    "待办任务.md",
-    "工具/excel.md",
-    "工作记录/OA前端代码阅读.md",
     "工具",
     "图片/1689672482301.png",
     "图片/1689672201243.png",
