@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/7月.md",
+                "file": "日志/8月.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作记录/人力资源.md"
+                "file": "日志/8月.md"
               }
             }
           },
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作记录/人力资源.md",
+                "file": "日志/8月.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作记录/人力资源.md",
+                "file": "日志/8月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +169,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0a5a95349c798ef6",
+  "active": "3486d16b9a24ed54",
   "lastOpenFiles": [
     "日志/7月.md",
+    "日志/8月.md",
     "工作记录/人力资源.md",
     "待办/个人规划.md",
     "技术Q.md",
@@ -204,7 +206,6 @@
     "待办任务.md",
     "工具/excel.md",
     "工作记录/OA前端代码阅读.md",
-    "特踏实.md",
     "工具",
     "图片/1689672482301.png",
     "图片/1689672201243.png",
