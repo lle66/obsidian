@@ -8,51 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30f06dbe906c1d27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工具/脚本.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5e8ec591655d0fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "其他/快捷键.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9711bfb32778abc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/8月.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb08a5805969ef4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日志/7月.md",
+                "file": "工具/脚本.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -194,15 +155,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "30f06dbe906c1d27",
+  "active": "9711bfb32778abc6",
   "lastOpenFiles": [
-    "工具/excel.md",
-    "工具/脚本.md",
-    "其他/文字游戏.md",
-    "其他/快捷键.md",
-    "其他/常识.md",
     "日志/8月.md",
     "日志/7月.md",
+    "其他/快捷键.md",
+    "其他/mac.md",
+    "工具/脚本.md",
+    "工具/excel.md",
+    "其他/文字游戏.md",
+    "其他/常识.md",
     "工作记录/人力资源需求调研.md",
     "待办/跨境电商.md",
     "工作记录/人事规章制度概述.md",
@@ -227,7 +189,6 @@
     "conflict-files-obsidian-git.md",
     "工作记录/季度总结.md",
     "其他/npm.md",
-    "其他/mac.md",
     "工作记录/资产管理需求调研会议.md",
     "工作记录/oa代码补充.md",
     "生活事件",
