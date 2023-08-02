@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/excel.md",
+                "file": "工具/脚本.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/excel.md"
+                "file": "工具/脚本.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/excel.md",
+                "file": "工具/脚本.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/excel.md",
+                "file": "工具/脚本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,6 +196,8 @@
   },
   "active": "30f06dbe906c1d27",
   "lastOpenFiles": [
+    "工具/excel.md",
+    "工具/脚本.md",
     "其他/文字游戏.md",
     "其他/快捷键.md",
     "其他/常识.md",
@@ -228,8 +230,6 @@
     "其他/mac.md",
     "工作记录/资产管理需求调研会议.md",
     "工作记录/oa代码补充.md",
-    "工作记录/OA公文+督办部分需求.md",
-    "工作记录/OA公文原型确认沟通.md",
     "生活事件",
     "图片/Camera_XHS_16902931565531000g0082o3a5qn6js0605nv48phg8470imus418.jpg",
     "工具",
