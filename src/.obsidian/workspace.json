@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/脚本.md"
+                "file": "日志/8月.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/脚本.md",
+                "file": "日志/8月.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/脚本.md",
+                "file": "日志/8月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,15 +195,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "30f06dbe906c1d27",
+  "active": "9711bfb32778abc6",
   "lastOpenFiles": [
-    "工具/excel.md",
-    "工具/脚本.md",
-    "其他/文字游戏.md",
-    "其他/快捷键.md",
-    "其他/常识.md",
-    "日志/8月.md",
     "日志/7月.md",
+    "日志/8月.md",
+    "其他/快捷键.md",
+    "工具/脚本.md",
+    "工具/excel.md",
+    "其他/文字游戏.md",
+    "其他/常识.md",
     "工作记录/人力资源需求调研.md",
     "待办/跨境电商.md",
     "工作记录/人事规章制度概述.md",
