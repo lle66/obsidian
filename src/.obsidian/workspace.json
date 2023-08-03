@@ -26,25 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/8月.md",
+                "file": "工作记录/管委会OA系统打通.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "03467633490fe094",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +170,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "03467633490fe094",
+  "active": "e3e7d66d2630327f",
   "lastOpenFiles": [
     "日志/8月.md",
     "工作记录/管委会OA系统打通.md",

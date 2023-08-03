@@ -6,9 +6,10 @@
 
  1. 除了综合部门的收发文业务还有其他集团哪些部门需要打通业务？
  2. 试用账号申请提供
- 管委会OA账号：
- 账号 http://172.16.2.51/flexoffice/web/dist/index.html  liaozp 123456a!
- 集团OA VPN：https://36.158.39.4:6030
+ 管委会OA：
+ vpn: https://61.187.123.109:2443/  账号：廖泽霈  密码：123456a!
+ http://172.16.2.51/flexoffice/web/dist/index.html  liaozp 123456a!
+ 集团OA VPN：123456a!https://36.158.39.4:6030   账号：蒋娟，密码：jj000000+
  1. 技术测对接了解？
 ![[Pasted image 20230803135351.png]]
 
