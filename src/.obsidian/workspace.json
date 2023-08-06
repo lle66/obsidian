@@ -34,12 +34,27 @@
             "id": "2d104979dc698ea7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "mindmapView",
+              "state": {
+                "file": "第二章-网络攻击.md"
+              }
+            }
+          },
+          {
+            "id": "ab800a32dcf9b175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "其他/常识.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "其他/常识.md"
+              }
             }
           },
           {
@@ -132,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "其他/常识.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "其他/常识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +189,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2d104979dc698ea7",
+  "active": "ab800a32dcf9b175",
   "lastOpenFiles": [
+    "第二章-网络攻击.md",
     "待办/前三章内容.md",
+    "其他/常识.md",
     "第一章导图.md",
     "待办/信息安全.md",
     "其他/账号.md",
@@ -188,7 +209,6 @@
     "其他/mac.md",
     "工具/excel.md",
     "其他/文字游戏.md",
-    "其他/常识.md",
     "工作记录/人力资源需求调研.md",
     "待办/跨境电商.md",
     "工作记录/人事规章制度概述.md",
@@ -203,7 +223,6 @@
     "工作记录/数据可视化.md",
     "工作记录/OA前端代码阅读.md",
     "待办/个人规划.md",
-    "技术Q.md",
     "Pasted image 20230725113026.png",
     "Pasted image 20230725113037.png",
     "Pasted image 20230727163222.png",
