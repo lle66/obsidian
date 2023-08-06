@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "a155dcffed5e802b",
+        "id": "80df4b2544884cbd",
         "type": "tabs",
         "children": [
           {
-            "id": "30f06dbe906c1d27",
+            "id": "8ca0641fd71b02eb",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapView",
+              "state": {
+                "file": "第一章导图.md"
+              }
+            }
+          },
+          {
+            "id": "e79a6cdbeda51633",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作记录/B2B 支付方案.md",
+                "file": "待办/前三章内容.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,20 +31,15 @@
             }
           },
           {
-            "id": "a017e22a18730dc2",
+            "id": "2d104979dc698ea7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日志/8月.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "https://36.158.39.4:6030",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5124969482422
+    "width": 200
   },
   "right": {
     "id": "59a5e2378786ed0c",
@@ -118,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日志/8月.md"
-              }
+              "state": {}
             }
           },
           {
@@ -129,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/8月.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/8月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,14 +170,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9711bfb32778abc6",
+  "active": "2d104979dc698ea7",
   "lastOpenFiles": [
+    "待办/前三章内容.md",
+    "第一章导图.md",
+    "待办/信息安全.md",
+    "其他/账号.md",
+    "日志/8月.md",
     "工具/脚本.md",
+    "conflict-files-obsidian-git.md",
     "生活事件/跨境电商.md",
     "工作记录/管委会OA系统打通.md",
     "工作记录/B2B 支付方案.md",
     "图片/Pasted image 20230803135351.png",
-    "日志/8月.md",
     "日志/7月.md",
     "其他/快捷键.md",
     "其他/mac.md",
@@ -184,9 +190,8 @@
     "其他/文字游戏.md",
     "其他/常识.md",
     "工作记录/人力资源需求调研.md",
-    "生活事件/跨境电商.md",
+    "待办/跨境电商.md",
     "工作记录/人事规章制度概述.md",
-    "未命名思维导图.md",
     "图片/Pasted image 20230802093942.png",
     "工作记录/office在线编辑调研.md",
     "图片/Pasted image 20230728112206.png",
@@ -199,14 +204,9 @@
     "工作记录/OA前端代码阅读.md",
     "待办/个人规划.md",
     "技术Q.md",
-    "待办/信息安全.md",
     "Pasted image 20230725113026.png",
-    "Pasted image 20230716234444.png.md",
     "Pasted image 20230725113037.png",
     "Pasted image 20230727163222.png",
-    "工作记录/季度总结.md",
-    "其他/npm.md",
-    "其他/mac.md",
     "生活事件",
     "图片/Camera_XHS_16902931565531000g0082o3a5qn6js0605nv48phg8470imus418.jpg",
     "工具",
