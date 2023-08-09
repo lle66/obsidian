@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/脚本.md"
+                "file": "日志/8月.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/脚本.md",
+                "file": "日志/8月.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/脚本.md",
+                "file": "日志/8月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,12 +179,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0b76a90415b27284",
+  "active": "a017e22a18730dc2",
   "lastOpenFiles": [
+    "工具/脚本.md",
+    "日志/8月.md",
     "待办/未命名.md",
     "第二章-网络攻击.md",
     "第一章导图.md",
-    "日志/8月.md",
     "Pasted image 20230804171335.png",
     "待办/信息安全.md",
     "待办/nginx配置有问题.md",
@@ -195,7 +196,6 @@
     "工作记录/B2B 支付方案.md",
     "待办/前三章内容.md",
     "1691140766667.png",
-    "工具/脚本.md",
     "图片/Pasted image 20230803135351.png",
     "其他/快捷键.md",
     "工具/excel.md",
