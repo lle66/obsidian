@@ -23,6 +23,14 @@ Q: 应用系统之间数据传输有三个要素：**传输方式，传输协议
 # 第三方单点登录OA
 第三方系统先调用单点登录地址，获取token
 ```
+http://OA地址:port/ssologin/getToken
+参数
+appid   //WeaverLoginClient.properties文件中左侧标识|
+loginid //OA账号
+```
+
+```
+// 直接进入管委会OA首页
 /login/VerifyLogin.jsp   post方式
 账号参数：loginid
 密码参数：userpassword
