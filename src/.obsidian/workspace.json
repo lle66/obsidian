@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30f06dbe906c1d27",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapView",
-              "state": {
-                "file": "第二章-网络攻击.md"
-              }
-            }
-          },
-          {
             "id": "a017e22a18730dc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/7月.md",
+                "file": "工作记录/管委会OA系统打通.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -43,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/7月.md"
+                "file": "工作记录/管委会OA系统打通.md"
               }
             }
           },
@@ -139,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/7月.md",
+                "file": "工作记录/管委会OA系统打通.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/7月.md",
+                "file": "工作记录/管委会OA系统打通.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,17 +170,17 @@
   },
   "active": "a017e22a18730dc2",
   "lastOpenFiles": [
-    "日志/8月.md",
-    "工具/脚本.md",
-    "待办/未命名.md",
     "第二章-网络攻击.md",
+    "工作记录/管委会OA系统打通.md",
+    "工具/脚本.md",
+    "日志/8月.md",
+    "日志/7月.md",
+    "待办/未命名.md",
     "第一章导图.md",
     "Pasted image 20230804171335.png",
     "待办/信息安全.md",
     "待办/nginx配置有问题.md",
-    "工作记录/管委会OA系统打通.md",
     "conflict-files-obsidian-git.md",
-    "日志/7月.md",
     "待办任务.md",
     "工作记录/B2B 支付方案.md",
     "待办/前三章内容.md",
