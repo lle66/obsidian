@@ -19,19 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ee3bcf514ccc9b72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "待办/前三章内容.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -171,11 +158,15 @@
   "active": "a017e22a18730dc2",
   "lastOpenFiles": [
     "日志/7月.md",
-    "日志/8月.md",
     "待办/前三章内容.md",
+    "Pasted image 20230814134815.png.md",
+    "日志/8月.md",
+    "Pasted image 20230814134815.png",
+    "工具/excel.md",
+    "工具/脚本.md",
+    "图片/Pasted image 20230814134929.png",
     "待办/信息安全.md",
     "其他/常识.md",
-    "工具/脚本.md",
     "待办/未命名.md",
     "工作记录/管委会OA系统打通.md",
     "第二章-网络攻击.md",
@@ -188,7 +179,6 @@
     "1691140766667.png",
     "图片/Pasted image 20230803135351.png",
     "其他/快捷键.md",
-    "工具/excel.md",
     "其他/文字游戏.md",
     "工作记录/人力资源需求调研.md",
     "生活事件/跨境电商.md",
@@ -203,9 +193,6 @@
     "图片/Pasted image 20230728111913.png",
     "图片/Pasted image 20230728111954.png",
     "工作记录/数据可视化.md",
-    "工作记录/OA前端代码阅读.md",
-    "Pasted image 20230725113026.png",
-    "Pasted image 20230725113037.png",
     "生活事件",
     "工具",
     "阅读",
