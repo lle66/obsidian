@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a24a7d9456362b5",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapView",
+              "state": {
+                "file": "未命名思维导图.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/8月.md"
+                "file": "未命名思维导图.md"
               }
             }
           },
@@ -129,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/8月.md",
+                "file": "未命名思维导图.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/8月.md",
+                "file": "未命名思维导图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,10 +179,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f46999ea210e06ab",
+  "active": "2a24a7d9456362b5",
   "lastOpenFiles": [
-    "逻辑与分类/思维模型.md",
     "日志/8月.md",
+    "未命名思维导图.md",
+    "逻辑与分类/思维模型.md",
     "逻辑与分类",
     "待办/信息安全.md",
     "日志/7月.md",
@@ -199,7 +210,6 @@
     "工作记录/人力资源需求调研.md",
     "生活事件/跨境电商.md",
     "工作记录/人事规章制度概述.md",
-    "未命名思维导图.md",
     "图片/Pasted image 20230802093942.png",
     "工作记录/office在线编辑调研.md",
     "图片/Pasted image 20230728112206.png",
