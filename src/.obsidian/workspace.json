@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "待办/前三章内容.md",
+                "file": "其他/常识.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "待办/前三章内容.md"
+                "file": "其他/常识.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "待办/前三章内容.md",
+                "file": "其他/常识.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "待办/前三章内容.md",
+                "file": "其他/常识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,6 +167,7 @@
   },
   "active": "bf8445f69f313984",
   "lastOpenFiles": [
+    "待办/前三章内容.md",
     "第二章-网络攻击.md",
     "分类下推思维导图.md",
     "第一章导图.md",
@@ -179,7 +180,6 @@
     "生活事件/跨境电商.md",
     "逻辑与分类",
     "日志/7月.md",
-    "待办/前三章内容.md",
     "Pasted image 20230814134815.png.md",
     "Pasted image 20230814134815.png",
     "工具/excel.md",
