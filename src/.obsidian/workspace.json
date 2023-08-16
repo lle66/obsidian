@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/脚本.md",
+                "file": "日志/8月.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "mindmapView",
               "state": {
-                "file": "未命名思维导图.md"
+                "file": "分类下推思维导图.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/脚本.md"
+                "file": "日志/8月.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/脚本.md",
+                "file": "日志/8月.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/脚本.md",
+                "file": "日志/8月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,12 +167,13 @@
   },
   "active": "bf8445f69f313984",
   "lastOpenFiles": [
+    "分类下推思维导图.md",
+    "日志/8月.md",
     "逻辑与分类/思维模型.md",
+    "工具/脚本.md",
     "生活事件/劳务纠纷.md",
     "生活事件/跨境电商.md",
     "第二章-网络攻击.md",
-    "日志/8月.md",
-    "未命名思维导图.md",
     "逻辑与分类",
     "待办/信息安全.md",
     "日志/7月.md",
@@ -180,7 +181,6 @@
     "Pasted image 20230814134815.png.md",
     "Pasted image 20230814134815.png",
     "工具/excel.md",
-    "工具/脚本.md",
     "图片/Pasted image 20230814134929.png",
     "其他/常识.md",
     "待办/未命名.md",
