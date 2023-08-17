@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae1580560ac38b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日志/8月.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/常识.md"
+                "file": "日志/8月.md"
               }
             }
           },
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/常识.md",
+                "file": "日志/8月.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/常识.md",
+                "file": "日志/8月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,12 +182,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2a24a7d9456362b5",
+  "active": "ae1580560ac38b3d",
   "lastOpenFiles": [
+    "其他/常识.md",
     "分类下推思维导图.md",
     "逻辑与分类/思维模型.md",
     "信安/web-front-hacker揭秘.md",
-    "其他/常识.md",
     "信安/信息安全.md",
     "信安/前三章内容.md",
     "待办/未命名.md",
