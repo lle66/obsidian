@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/常识.md",
+                "file": "信安/web-front-hacker揭秘.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -24,13 +24,17 @@
             "id": "2a24a7d9456362b5",
             "type": "leaf",
             "state": {
-              "type": "mindmapView",
+              "type": "markdown",
               "state": {
-                "file": "分类下推思维导图.md"
+                "file": "其他/常识.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,16 +169,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bf8445f69f313984",
+  "active": "2a24a7d9456362b5",
   "lastOpenFiles": [
-    "待办/前三章内容.md",
-    "第二章-网络攻击.md",
     "分类下推思维导图.md",
-    "第一章导图.md",
+    "逻辑与分类/思维模型.md",
+    "信安/web-front-hacker揭秘.md",
+    "其他/常识.md",
+    "信安/信息安全.md",
+    "信安/前三章内容.md",
+    "待办/未命名.md",
+    "信安",
+    "信安/第二章-网络攻击.md",
+    "信安/第一章导图.md",
     "日志/8月.md",
     "工具/小工具集合.md",
-    "待办/信息安全.md",
-    "逻辑与分类/思维模型.md",
     "工具/脚本.md",
     "生活事件/劳务纠纷.md",
     "生活事件/跨境电商.md",
@@ -184,8 +192,6 @@
     "Pasted image 20230814134815.png",
     "工具/excel.md",
     "图片/Pasted image 20230814134929.png",
-    "其他/常识.md",
-    "待办/未命名.md",
     "工作记录/管委会OA系统打通.md",
     "Pasted image 20230804171335.png",
     "待办/nginx配置有问题.md",
@@ -199,7 +205,6 @@
     "工作记录/人力资源需求调研.md",
     "工作记录/人事规章制度概述.md",
     "图片/Pasted image 20230802093942.png",
-    "工作记录/office在线编辑调研.md",
     "图片/Pasted image 20230728112206.png",
     "图片/Pasted image 20230726172129.png",
     "图片/Pasted image 20230728111913.png",
@@ -211,7 +216,6 @@
     "日志",
     "小程序",
     "代码",
-    "图片",
-    "其他"
+    "图片"
   ]
 }
