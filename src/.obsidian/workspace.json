@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信安/web-front-hacker揭秘.md"
+                "file": "日志/8月.md"
               }
             }
           },
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信安/web-front-hacker揭秘.md",
+                "file": "日志/8月.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信安/web-front-hacker揭秘.md",
+                "file": "日志/8月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,14 +182,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bf8445f69f313984",
+  "active": "ae1580560ac38b3d",
   "lastOpenFiles": [
+    "信安/web-front-hacker揭秘.md",
     "Pasted image 20230817155310.png",
     "其他/常识.md",
     "日志/8月.md",
     "分类下推思维导图.md",
     "逻辑与分类/思维模型.md",
-    "信安/web-front-hacker揭秘.md",
     "信安/信息安全.md",
     "信安/前三章内容.md",
     "待办/未命名.md",
@@ -220,7 +221,6 @@
     "图片/Pasted image 20230728112206.png",
     "图片/Pasted image 20230726172129.png",
     "图片/Pasted image 20230728111913.png",
-    "图片/Pasted image 20230728111954.png",
     "生活事件",
     "工具",
     "阅读",
