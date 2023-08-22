@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/8月.md"
+                "file": "其他/常识.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/8月.md",
+                "file": "其他/常识.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/8月.md",
+                "file": "其他/常识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,10 +182,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ae1580560ac38b3d",
+  "active": "2a24a7d9456362b5",
   "lastOpenFiles": [
-    "其他/常识.md",
     "日志/8月.md",
+    "其他/常识.md",
     "信安/web-front-hacker揭秘.md",
     "Pasted image 20230817155310.png",
     "分类下推思维导图.md",
