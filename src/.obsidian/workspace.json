@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作记录/管委会OA系统打通.md",
+                "file": "其他/账号.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/8月.md"
+                "file": "其他/账号.md"
               }
             }
           },
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/8月.md",
+                "file": "其他/账号.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/8月.md",
+                "file": "其他/账号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +169,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ef0d9095bcddb9ab",
+  "active": "38e4ee76bc8c409a",
   "lastOpenFiles": [
     "工作记录/管委会OA系统打通.md",
     "日志/8月.md",
