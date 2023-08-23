@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/常识.md",
+                "file": "其他/文字游戏.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,16 +34,11 @@
             }
           },
           {
-            "id": "ae1580560ac38b3d",
+            "id": "ef0d9095bcddb9ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日志/8月.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -132,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/常识.md"
+                "file": "其他/文字游戏.md"
               }
             }
           },
@@ -142,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/常识.md",
+                "file": "其他/文字游戏.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/常识.md",
+                "file": "其他/文字游戏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,13 +179,14 @@
   },
   "active": "2a24a7d9456362b5",
   "lastOpenFiles": [
-    "日志/8月.md",
-    "其他/常识.md",
+    "其他/文字游戏.md",
     "信安/web-front-hacker揭秘.md",
+    "其他/常识.md",
+    "信安/信息安全.md",
+    "日志/8月.md",
     "Pasted image 20230817155310.png",
     "分类下推思维导图.md",
     "逻辑与分类/思维模型.md",
-    "信安/信息安全.md",
     "信安/前三章内容.md",
     "待办/未命名.md",
     "信安",
@@ -215,7 +211,6 @@
     "1691140766667.png",
     "图片/Pasted image 20230803135351.png",
     "其他/快捷键.md",
-    "其他/文字游戏.md",
     "工作记录/人力资源需求调研.md",
     "图片/Pasted image 20230802093942.png",
     "图片/Pasted image 20230728112206.png",
