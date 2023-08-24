@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/常识.md",
+                "file": "信安/前三章内容.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "泛微",
+                "query": "sm3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/8月.md"
+                "file": "信安/前三章内容.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/8月.md",
+                "file": "信安/前三章内容.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/8月.md",
+                "file": "信安/前三章内容.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,17 +182,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "49852196dc5ef577",
+  "active": "38e4ee76bc8c409a",
   "lastOpenFiles": [
+    "信安/信息安全.md",
     "其他/常识.md",
-    "工作记录/OA厂商.md",
     "日志/8月.md",
+    "工作记录/OA厂商.md",
     "日志/7月.md",
     "图片/Pasted image 20230824093351.png",
     "其他/账号.md",
     "工作记录/管委会OA系统打通.md",
     "信安/web-front-hacker揭秘.md",
-    "信安/信息安全.md",
     "工作记录/B2B 支付方案.md",
     "工作记录/OA公文+督办部分需求.md",
     "其他/语录.md",
