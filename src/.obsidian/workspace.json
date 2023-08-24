@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/8月.md"
+                "file": "其他/常识.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/8月.md",
+                "file": "其他/常识.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/8月.md",
+                "file": "其他/常识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "49852196dc5ef577",
+  "active": "38e4ee76bc8c409a",
   "lastOpenFiles": [
     "工作记录/OA厂商.md",
     "日志/8月.md",
