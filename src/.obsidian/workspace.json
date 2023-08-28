@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/常识.md",
+                "file": "逻辑与分类/math.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/常识.md"
+                "file": "逻辑与分类/math.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/常识.md",
+                "file": "逻辑与分类/math.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/常识.md",
+                "file": "逻辑与分类/math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,10 +197,12 @@
   },
   "active": "2037c57970b78f5d",
   "lastOpenFiles": [
+    "其他/常识.md",
+    "逻辑与分类/math.md",
+    "未命名",
     "日志/8月.md",
     "信安/前三章内容.md",
     "信安/信息安全.md",
-    "其他/常识.md",
     "工作记录/OA厂商.md",
     "日志/7月.md",
     "图片/Pasted image 20230824093351.png",
@@ -240,7 +242,6 @@
     "待办",
     "日志",
     "小程序",
-    "代码",
-    "图片"
+    "代码"
   ]
 }
