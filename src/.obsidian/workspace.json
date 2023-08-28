@@ -45,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2037c57970b78f5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "逻辑与分类/math.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "逻辑与分类/math.md"
+                "file": "日志/8月.md"
               }
             }
           },
@@ -155,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "逻辑与分类/math.md",
+                "file": "日志/8月.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "逻辑与分类/math.md",
+                "file": "日志/8月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,21 +182,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2037c57970b78f5d",
+  "active": "49852196dc5ef577",
   "lastOpenFiles": [
+    "工作记录/OA厂商.md",
+    "日志/8月.md",
+    "逻辑与分类/math.md",
     "Pasted image 20230828161919.png",
     "1693210299267.png",
     "Pasted image 20230828160234.png",
     "Pasted image 20230828160158.png",
     "逻辑与分类/思维模型.md",
-    "逻辑与分类/math.md",
     "Pasted image 20230828143600.png",
     "其他/常识.md",
     "未命名",
-    "日志/8月.md",
     "信安/前三章内容.md",
     "信安/信息安全.md",
-    "工作记录/OA厂商.md",
     "日志/7月.md",
     "图片/Pasted image 20230824093351.png",
     "其他/账号.md",
@@ -235,7 +222,6 @@
     "图片/Pasted image 20230814134929.png",
     "Pasted image 20230804171335.png",
     "待办/nginx配置有问题.md",
-    "1691140766667.png",
     "生活事件",
     "工具",
     "阅读",
