@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信安/前三章内容.md"
+                "file": "日志/8月.md"
               }
             }
           },
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信安/前三章内容.md",
+                "file": "日志/8月.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信安/前三章内容.md",
+                "file": "日志/8月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,8 +183,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "38e4ee76bc8c409a",
+  "active": "49852196dc5ef577",
   "lastOpenFiles": [
+    "信安/前三章内容.md",
     "信安/信息安全.md",
     "其他/常识.md",
     "日志/8月.md",
@@ -199,7 +201,6 @@
     "图片/Pasted image 20230817155310.png",
     "分类下推思维导图.md",
     "逻辑与分类/思维模型.md",
-    "信安/前三章内容.md",
     "待办/未命名.md",
     "信安",
     "信安/第二章-网络攻击.md",
