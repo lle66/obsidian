@@ -13,33 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信安/前三章内容.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "962475cd9215d255",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工作记录/OA厂商.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49852196dc5ef577",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "日志/8月.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61706743b3afd467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "逻辑与分类/math.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/8月.md"
+                "file": "逻辑与分类/math.md"
               }
             }
           },
@@ -142,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/8月.md",
+                "file": "逻辑与分类/math.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/8月.md",
+                "file": "逻辑与分类/math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,20 +169,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "49852196dc5ef577",
+  "active": "61706743b3afd467",
   "lastOpenFiles": [
-    "工作记录/OA厂商.md",
     "日志/8月.md",
+    "信安/前三章内容.md",
+    "工作记录/OA厂商.md",
+    "待办任务.md",
+    "待办/nginx配置有问题.md",
+    "待办/未命名.md",
+    "待办/个人规划.md",
     "逻辑与分类/math.md",
-    "Pasted image 20230828161919.png",
-    "1693210299267.png",
-    "Pasted image 20230828160234.png",
-    "Pasted image 20230828160158.png",
+    "图片/Pasted image 20230828161919.png",
+    "图片/1693210299267.png",
+    "图片/Pasted image 20230828160234.png",
+    "图片/Pasted image 20230828160158.png",
     "逻辑与分类/思维模型.md",
-    "Pasted image 20230828143600.png",
+    "图片/Pasted image 20230828143600.png",
     "其他/常识.md",
     "未命名",
-    "信安/前三章内容.md",
     "信安/信息安全.md",
     "日志/7月.md",
     "图片/Pasted image 20230824093351.png",
@@ -207,7 +198,6 @@
     "其他/语录.md",
     "图片/Pasted image 20230817155310.png",
     "分类下推思维导图.md",
-    "待办/未命名.md",
     "信安",
     "信安/第二章-网络攻击.md",
     "信安/第一章导图.md",
@@ -218,10 +208,8 @@
     "逻辑与分类",
     "Pasted image 20230814134815.png.md",
     "Pasted image 20230814134815.png",
-    "工具/excel.md",
     "图片/Pasted image 20230814134929.png",
     "Pasted image 20230804171335.png",
-    "待办/nginx配置有问题.md",
     "生活事件",
     "工具",
     "阅读",
