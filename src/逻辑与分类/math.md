@@ -21,3 +21,8 @@ P1、P2...均为质数时
 
 模反元素
 ![[Pasted image 20230828161919.png]]
+
+
+https://wenku.baidu.com/tfview/d22a4f643269a45177232f60ddccda38376be194.html?fr=launch_ad&SS-bdtg26=&utm_source=bdss-WD&utm_medium=cpc&utm_account=SS-bdtg26&e_creative=68924872810&e_keywordid=536782598450&bd_vid=11793081753445491925&fromShare=1&fr=copy&copyfr=copylinkpop&_wkts_=1693272234707
+
+https://wenku.baidu.com/tfview/d22a4f643269a45177232f60ddccda38376be194.html?fr=launch_ad&SS-bdtg26&utm_source=bdss-WD&utm_medium=cpc&utm_account=SS-bdtg26&e_creative=68924872810&e_keywordid=536782598450&bd_vid=11793081753445491925&fromShare=1&fr=copy&copyfr=copylinkpop
