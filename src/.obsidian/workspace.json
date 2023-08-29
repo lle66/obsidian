@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "逻辑与分类/math.md",
+                "file": "其他/npm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "逻辑与分类/math.md"
+                "file": "其他/npm.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "逻辑与分类/math.md",
+                "file": "其他/npm.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "逻辑与分类/math.md",
+                "file": "其他/npm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,6 +171,8 @@
   },
   "active": "61706743b3afd467",
   "lastOpenFiles": [
+    "其他/mac.md",
+    "逻辑与分类/math.md",
     "日志/8月.md",
     "信安/前三章内容.md",
     "工作记录/OA厂商.md",
@@ -178,7 +180,6 @@
     "待办/nginx配置有问题.md",
     "待办/未命名.md",
     "待办/个人规划.md",
-    "逻辑与分类/math.md",
     "图片/Pasted image 20230828161919.png",
     "图片/1693210299267.png",
     "图片/Pasted image 20230828160234.png",
@@ -206,7 +207,6 @@
     "生活事件/劳务纠纷.md",
     "生活事件/跨境电商.md",
     "逻辑与分类",
-    "Pasted image 20230814134815.png.md",
     "Pasted image 20230814134815.png",
     "图片/Pasted image 20230814134929.png",
     "Pasted image 20230804171335.png",
