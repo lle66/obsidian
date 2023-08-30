@@ -32,4 +32,28 @@ return (
 );
 ```
 4. 样式添加使用className,  或内联style={{}} 并不是一个特殊的语法，而是 `style={ }` JSX 大括号内的一个普通 `{}` 对象  
-5. 条件语句、循环语句先写在js里面，再
+5. 条件语句、循环语句先写在js里面，再引用
+6. 父子组件事件与变量传递
+	```js
+	export default function MyApp() {  
+		const [count, setCount] = useState(0);  
+		function handleClick() {  
+		setCount(count + 1);  
+		}  
+		return (  
+		<div>  
+		<h1>Counters that update together</h1>  
+		<MyButton count={count} onClick={handleClick} />  
+		<MyButton count={count} onClick={handleClick} />  
+		</div>  
+		); 
+		// 子组件
+		function MyButton({ count, onClick }) {  
+			return (  
+			<button onClick={onClick}>  
+			Clicked {count} times  
+			</button>  
+			);  
+		}
+	}
+	```
