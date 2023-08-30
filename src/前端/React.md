@@ -1,0 +1,34 @@
+# 组件
+组件可以是页面的一个小部件，也可以是 一整个页面
+1. React 组件是返回标签的 JavaScript 函数
+```js
+function MyButton() {  
+	return (  
+	<button>I'm a button</button>  
+	);  
+}
+```
+2. 组件的引用，React 组件必须以大写字母开头，而 HTML 标签则必须是小写字母。
+```js
+export default function MyApp() {  
+	return (  
+		<div>  
+		<h1>Welcome to my app</h1>  
+		<MyButton />  
+		</div>  
+	);  
+}
+```
+
+3. JSX语法 (html标签放到 JavaScript)
+	组件也不能返回多个 JSX 标签。你必须将它们包裹到一个共享的父级中，比如 `<div>...</div>` 或使用空的 `<>...</>` 包裹,
+	jsx中使用{}显示变量
+```js
+return ( 
+<div>
+	<img className="avatar" src={user.imageUrl} />  
+	<span>{user.name}</span>
+</div>
+);
+```
+1. 样式添加使用className,  或内联style={{}} 并不是一个特殊的语法，而是 `style={ }` JSX 大括号内的一个普通 `{}` 对象
