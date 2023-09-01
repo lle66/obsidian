@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作记录/管委会OA系统打通.md",
+                "file": "日志/8月.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作记录/管委会OA系统打通.md"
+                "file": "前端/React.md"
               }
             }
           },
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作记录/管委会OA系统打通.md",
+                "file": "前端/React.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作记录/管委会OA系统打通.md",
+                "file": "前端/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +169,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "38e4ee76bc8c409a",
+  "active": "61706743b3afd467",
   "lastOpenFiles": [
     "日志/8月.md",
+    "工作记录/管委会OA系统打通.md",
     "日志/9月.md",
     "前端/React.md",
     "Pasted image 20230830162722.png",
@@ -195,7 +197,6 @@
     "日志/7月.md",
     "图片/Pasted image 20230824093351.png",
     "其他/账号.md",
-    "工作记录/管委会OA系统打通.md",
     "信安/web-front-hacker揭秘.md",
     "工作记录/B2B 支付方案.md",
     "工作记录/OA公文+督办部分需求.md",
