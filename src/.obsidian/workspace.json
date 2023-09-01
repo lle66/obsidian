@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "c02cc6afc79d93d1",
+            "id": "640ac971ff0f3ab3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/常识.md",
+                "file": "前端/React.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/typeScript.md"
+                "file": "前端/React.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/typeScript.md",
+                "file": "前端/React.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/typeScript.md",
+                "file": "前端/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,10 +182,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "61706743b3afd467",
+  "active": "640ac971ff0f3ab3",
   "lastOpenFiles": [
-    "前端/React.md",
     "前端/typeScript.md",
+    "前端/React.md",
     "其他/常识.md",
     "其他/语录.md",
     "日志/8月.md",

@@ -74,7 +74,28 @@ return (
 setHistory([...history, nextSquares]);
 history.length没有变化
 ```
+8. tsx,,使用ts 的一些语法
+```ts
+1. 
+	const [enabled, setEnabled] = useState<boolean>(false);
+2. 取集合
+	type Status = "idle" | "loading" | "success" | "error";  
+	const [status, setStatus] = useState<Status>("idle");
+3. 对象描述分组
+	type CounterAction =
+	  | { type: "reset" }
+	  | { type: "setCount"; value: State["count"] }
+function stateReducer(action: CounterAction){}
+stateReducer({ type: "reset" })
+5. 使用`type` 或 `interface` 描述的对象类型
+	interface MyButtonProps {
+	  title: string;
+	  disabled: boolean;
+	};
+	function MyButton({ title, disabled }: MyButtonProps){}
 
+
+```
 
 # 编程思想
 1. 将页面组件拆成成组件层级结构，组件即函数，元素即变量
