@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/React.md",
+                "file": "前端/typeScript.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/常识.md"
+                "file": "前端/typeScript.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/常识.md",
+                "file": "前端/typeScript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/常识.md",
+                "file": "前端/typeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +182,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c02cc6afc79d93d1",
+  "active": "61706743b3afd467",
   "lastOpenFiles": [
     "前端/React.md",
+    "前端/typeScript.md",
+    "其他/常识.md",
+    "其他/语录.md",
     "日志/8月.md",
     "工作记录/管委会OA系统打通.md",
     "日志/9月.md",
@@ -205,7 +208,6 @@
     "图片/Pasted image 20230828160158.png",
     "逻辑与分类/思维模型.md",
     "图片/Pasted image 20230828143600.png",
-    "其他/常识.md",
     "信安/信息安全.md",
     "日志/7月.md",
     "图片/Pasted image 20230824093351.png",
@@ -213,13 +215,11 @@
     "信安/web-front-hacker揭秘.md",
     "工作记录/B2B 支付方案.md",
     "工作记录/OA公文+督办部分需求.md",
-    "其他/语录.md",
     "图片/Pasted image 20230817155310.png",
     "分类下推思维导图.md",
     "信安",
     "信安/第二章-网络攻击.md",
     "信安/第一章导图.md",
-    "工具/小工具集合.md",
     "逻辑与分类",
     "Pasted image 20230814134815.png",
     "图片/Pasted image 20230814134929.png",
