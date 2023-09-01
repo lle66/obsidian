@@ -74,3 +74,10 @@ return (
 setHistory([...history, nextSquares]);
 history.length没有变化
 ```
+
+
+# 编程思想
+1. 将页面组件拆成成组件层级结构，组件即函数，元素即变量
+2. 识别哪些是state（改变state实现可响应）
+https://zh-hans.react.dev/learn/thinking-in-react
+
