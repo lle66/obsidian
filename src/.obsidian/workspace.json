@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c02cc6afc79d93d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "其他/常识.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/React.md"
+                "file": "其他/常识.md"
               }
             }
           },
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/React.md",
+                "file": "其他/常识.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/React.md",
+                "file": "其他/常识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,12 +182,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "61706743b3afd467",
+  "active": "c02cc6afc79d93d1",
   "lastOpenFiles": [
+    "前端/React.md",
     "日志/8月.md",
     "工作记录/管委会OA系统打通.md",
     "日志/9月.md",
-    "前端/React.md",
     "Pasted image 20230830162722.png",
     "待办任务.md",
     "其他/npm.md",
