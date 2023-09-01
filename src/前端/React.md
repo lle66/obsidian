@@ -96,7 +96,7 @@ stateReducer({ type: "reset" })
 
 
 ```
-9. `useReducer`怎么用
+9. `useReducer`怎么用，， react 的ts规则有点难理解。
 # 编程思想
 1. 将页面组件拆成成组件层级结构，组件即函数，元素即变量
 2. 识别哪些是state（改变state实现可响应）
