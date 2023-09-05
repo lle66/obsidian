@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/语录.md"
+                "file": "日志/9月.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/语录.md",
+                "file": "日志/9月.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/语录.md",
+                "file": "日志/9月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,15 +208,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f820caa3db350abb",
+  "active": "5bcb05684f62f5a2",
   "lastOpenFiles": [
+    "其他/语录.md",
     "日志/9月.md",
     "工作记录/招商平台.md",
     "日志/8月.md",
     "前端/typeScript.md",
     "前端/React.md",
     "其他/常识.md",
-    "其他/语录.md",
     "工作记录/管委会OA系统打通.md",
     "图片/Pasted image 20230830162722.png",
     "待办任务.md",
