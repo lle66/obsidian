@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作记录/招商平台.md"
+                "file": "日志/9月.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作记录/招商平台.md",
+                "file": "日志/9月.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作记录/招商平台.md",
+                "file": "日志/9月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 253.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,11 +195,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "38e4ee76bc8c409a",
+  "active": "5bcb05684f62f5a2",
   "lastOpenFiles": [
+    "工作记录/招商平台.md",
     "日志/9月.md",
     "日志/8月.md",
-    "工作记录/招商平台.md",
     "前端/typeScript.md",
     "前端/React.md",
     "其他/常识.md",
