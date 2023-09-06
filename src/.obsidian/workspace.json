@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/npm.md",
+                "file": "日志/9月.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "f820caa3db350abb",
+            "id": "2a371e71cdb58db4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/语录.md",
+                "file": "其他/npm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,8 +127,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,20 +208,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5bcb05684f62f5a2",
+  "active": "2a371e71cdb58db4",
   "lastOpenFiles": [
-    "生活事件/拿不定主意的事情.md",
     "日志/9月.md",
-    "其他/语录.md",
-    "工作记录/招商平台.md",
-    "日志/8月.md",
     "前端/typeScript.md",
     "前端/React.md",
+    "其他/npm.md",
+    "其他/语录.md",
+    "工作记录/招商平台.md",
+    "生活事件/拿不定主意的事情.md",
+    "日志/8月.md",
     "其他/常识.md",
     "工作记录/管委会OA系统打通.md",
     "图片/Pasted image 20230830162722.png",
     "待办任务.md",
-    "其他/npm.md",
     "前端",
     "其他/mac.md",
     "逻辑与分类/math.md",
