@@ -129,3 +129,7 @@ const addTodo = text => {
 ## Reducer
 **reducer** 是一个函数，接收当前的 `state` 和一个 `action` 对象。 **reducer 是一个事件监听器，它根据接收到的 action（事件）类型处理事件。
 (state, action) => newState
+
+
+，
+我想申请能请假三天年假以及一天事假去处理一些个人事务，时间是9月。我会尽一切努力确保我的离开不会对团队工作造成重大影响，并将提前做好必要的准备，以确保工作的顺利进行。
