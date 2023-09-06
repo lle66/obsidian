@@ -141,3 +141,6 @@ store.dispatch({ type: 'counter/increment' })
 //store.dispatch(increment)
 console.log(store.getState())
 ```
+
+
+# DvaJS
