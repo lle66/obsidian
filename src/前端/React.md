@@ -108,3 +108,24 @@ https://zh-hans.react.dev/learn/thinking-in-react
 Redux 帮你管理“全局”状态 - 应用程序中的很多组件都需要的状态。
 相当于vuex
 setXxxx( 函数 ) -----
+## action
+描述应用程序中发生了什么的事件。是一个具有 `type` 字段的普通 JavaScript 对象。
+```js
+const addTodoAction = {  
+type: 'todos/todoAdded',   // 域/事件名
+payload: 'Buy milk'  //附加信息
+}
+```
+## Action Creator
+创建并返回一个 action 对象的函数。它的作用是让你不必每次都手动编写 action 对象。
+```js
+const addTodo = text => {  
+	return {  
+	type: 'todos/todoAdded',  
+	payload: text  
+	}  
+}
+```
+## Reducer
+**reducer** 是一个函数，接收当前的 `state` 和一个 `action` 对象。 **reducer 是一个事件监听器，它根据接收到的 action（事件）类型处理事件。
+(state, action) => newState
