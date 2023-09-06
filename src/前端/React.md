@@ -102,3 +102,8 @@ stateReducer({ type: "reset" })
 2. 识别哪些是state（改变state实现可响应）
 https://zh-hans.react.dev/learn/thinking-in-react
 
+
+
+# redux
+Redux 帮你管理“全局”状态 - 应用程序中的很多组件都需要的状态。
+相当于vuex
