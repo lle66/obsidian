@@ -107,3 +107,4 @@ https://zh-hans.react.dev/learn/thinking-in-react
 # redux
 Redux 帮你管理“全局”状态 - 应用程序中的很多组件都需要的状态。
 相当于vuex
+setXxxx( 函数 ) -----
