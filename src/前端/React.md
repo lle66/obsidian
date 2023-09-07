@@ -180,3 +180,7 @@ Effect 是一个 Generator 函数，内部使用 yield 关键字
 1.  有些晕
 2. 一些tsx没理解
 3. vs 插件   Reactjs code snippets
+4. pureComponent和Component区别 
+	1. 当使用component时，父组件的state或prop更新时，无论子组件的state、prop是否更新，都会触发子组件的更新，这会形成很多没必要的render，浪费很多性能
+	2. pureComponent的优点在于：pureComponent在shouldComponentUpdate只进行浅层的比较，只要外层对象没变化，就不会触发render,减少了不必要的render
+	3. 什么时候用？
