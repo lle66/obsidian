@@ -142,7 +142,7 @@ store.dispatch({ type: 'counter/increment' })
 console.log(store.getState())
 ```
 
-
+dispatch(action)---->去reducer里面找对应的acrion? 还是执行所有的函数？
 # Dva
 dva 是 React 应用框架，将React-Router + Redux + Redux-saga三个 React 工具库包装在一起，简化了 API，让开发 React 应用更加方便和快捷。
 能把请求方法也封装起来？
@@ -152,4 +152,24 @@ dva 是 React 应用框架，将React-Router + Redux + Redux-saga三个 React �
 2：编写UI Component  
 3：定义 Model  
 4：connect 起来
+```
+
+## State------ View
+State 是储存数据的地方，收到 Action 以后，会更新数据。
+View 就是 React 组件构成的 UI 层，从 State 取数据后，渲染成 HTML 代码。只要 State 有变化，View 就会自动更新。
+![[65494788dbaefb0d13b80f8c4ad894f.jpg]]
+
+```js
+import { connect } from 'dva'; //connect 是一个函数，绑定 State 到 View。
+function mapStateToProps(state) {
+  return { todos: state.todos };
+}
+connect(mapStateToProps)(App);//被 connect 的 Component 会自动在 props 中拥有 dispatch 方法
+```
+
+```
+Reducer 相当于vue的Mutation，处理同步操作，可以看做是 state 的计算器
+Effect 是一个 Generator 函数，内部使用 yield 关键字
+	- call：执行异步函数
+	- put：发出一个 Action，类似于 dispatch
 ```
