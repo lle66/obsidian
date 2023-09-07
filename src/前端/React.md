@@ -174,3 +174,9 @@ Effect 是一个 Generator 函数，内部使用 yield 关键字
 	- call：执行异步函数
 	- put：发出一个 Action，类似于 dispatch
 ```
+
+
+## 实战Q
+1.  有些晕
+2. 一些tsx没理解
+3. vs 插件   Reactjs code snippets
