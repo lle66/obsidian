@@ -1,3 +1,14 @@
+# 生命周期
+# 挂载
+生命周期调用顺序
+- constructor(): 在 React 组件挂载之前，会调用它的构造函数。
+- getDerivedStateFromProps(): 在调用 render 方法之前调用，并且在初始挂载及后续更新时都会被调用。
+- render(): render() 方法是 class 组件中唯一必须实现的方法。
+- componentDidMount(): 在组件挂载后（插入 DOM 树中）立即调用
+# 更新
+`componentDidUpdate(): 在更新后会被立即调用。`
+# 卸载
+
 # 组件
 组件可以是页面的一个小部件，也可以是 一整个页面
 1. React 组件是返回标签的 JavaScript 函数
@@ -183,4 +194,4 @@ Effect 是一个 Generator 函数，内部使用 yield 关键字
 4. pureComponent和Component区别 
 	1. 当使用component时，父组件的state或prop更新时，无论子组件的state、prop是否更新，都会触发子组件的更新，这会形成很多没必要的render，浪费很多性能
 	2. pureComponent的优点在于：pureComponent在shouldComponentUpdate只进行浅层的比较，只要外层对象没变化，就不会触发render,减少了不必要的render
-	3. 什么时候用？
+	3. 什么时候用？---Props 和 state都是简单变量，并且不怎么变化
