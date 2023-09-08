@@ -184,6 +184,7 @@ Effect 是一个 Generator 函数，内部使用 yield 关键字
 内部的处理函数call、put
 	- call：执行异步函数
 	- put：发出一个 Action，类似于 dispatch
+subscriptions： 订阅一些model里面需要的东西？？监听一些事件？然后调用reducer/Effect中的方法
 ```
 
 
