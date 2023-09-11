@@ -179,14 +179,15 @@ connect(mapStateToProps)(App);//被 connect 的 Component 会自动在 props 中
 ```
 
 ```
-Reducer 相当于vue的Mutation，处理同步操作，可以看做是 state 的计算器
+Reducer 相当于vue的Mutation，处理同步操作，可以看做是 state 的计算器???
 Effect 是一个 Generator 函数，内部使用 yield 关键字
 内部的处理函数call、put
 	- call：执行异步函数
 	- put：发出一个 Action，类似于 dispatch
 subscriptions： 订阅一些model里面需要的东西？？监听一些事件？然后调用reducer/Effect中的方法
 ```
-
+ reducers用于处理同步操作，唯一可以修改 `state` 的地方。由 `action` 触发。
+格式为 `(state, action) => newState`
 
 ## 实战Q
 1.  有些晕
