@@ -188,6 +188,17 @@ subscriptions： 订阅一些model里面需要的东西？？监听一些事件�
 ```
  reducers用于处理同步操作，唯一可以修改 `state` 的地方。由 `action` 触发。
 格式为 `(state, action) => newState`
+## connect
+- mapStateToProps：映射状态，返回值是一个对象；
+- mapDispatchToProps：映射操作状态的方法，返回值是一个对象；
+-
+```
+connect(
+state => ({ key:value }), //映射状态
+{ key:xxxxxAction } //映射操作状态的方法
+)(U组件)
+```
+
 
 ## 实战Q
 1.  有些晕
