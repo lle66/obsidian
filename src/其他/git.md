@@ -32,3 +32,5 @@ ssh -vT git@github.com //尝试连接到 `git@github.com` 来检查使用的�
 
 
 
+# git 提交报错
+1. 晚上一直显示提交失败，，另一天就成功了----代理网络问题 
