@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术Q.md",
+                "file": "其他/git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术Q.md"
+                "file": "其他/git.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术Q.md",
+                "file": "其他/git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术Q.md",
+                "file": "其他/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,8 +211,8 @@
   },
   "active": "093ea185e50bb809",
   "lastOpenFiles": [
-    "日志/9月.md",
     "技术Q.md",
+    "日志/9月.md",
     "其他/git.md",
     "前端/React.md",
     "前端/typeScript.md",
