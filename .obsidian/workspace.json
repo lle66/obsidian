@@ -25,24 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/生活事件/拿不定主意的事情.md",
+                "file": "src/日志/9月.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "3549e1d4b1dedd05",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/生活事件/拿不定主意的事情.md",
+                "file": "src/日志/9月.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/生活事件/拿不定主意的事情.md",
+                "file": "src/日志/9月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/生活事件/拿不定主意的事情.md"
+                "file": "src/日志/9月.md"
               }
             }
           }
@@ -169,10 +159,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3549e1d4b1dedd05",
+  "active": "77b56fbff4ff04df",
   "lastOpenFiles": [
-    "src/图片/65494788dbaefb0d13b80f8c4ad894f.jpg",
+    "src/生活事件/事件综合.md",
+    "src/生活事件/xyk逾期.md",
+    "src/Pasted image 20230913141431.png",
     "src/生活事件/拿不定主意的事情.md",
+    "src/图片/65494788dbaefb0d13b80f8c4ad894f.jpg",
     "src/日志/9月.md",
     "src/阅读/墨菲定律.md",
     "src/逻辑与分类/思维模型.md",
@@ -196,7 +189,6 @@
     "src/工作记录/人事规章制度概述.md",
     "src/工作记录/office在线编辑调研.md",
     "src/工作记录/OA厂商.md",
-    "src/工作记录/OA前端代码阅读.md",
     "src/图片/Pasted image 20230817155310.png",
     "src/图片/Pasted image 20230830162722.png",
     "src/图片/Pasted image 20230828161919.png",
@@ -205,8 +197,6 @@
     "src/图片/Pasted image 20230828143600.png",
     "src/图片/Pasted image 20230824093351.png",
     "src/图片/Pasted image 20230814134929.png",
-    "src/图片/Pasted image 20230803135351.png",
-    "src/图片/Pasted image 20230802093942.png",
     "src/阅读",
     "src/逻辑与分类",
     "src/生活事件",
