@@ -199,6 +199,11 @@ state => ({ key:value }), //映射状态
 )(U组件)
 ```
 
+## 结构构思
+![[Pasted image 20230913141431.png]]
+
+容器组件：负责和redux通信，将结果交给UI组件；（引入connect生成一个容器组件）
+UI组件：不能使用任何redux的api，只负责页面的呈现、交互等；（通过this.props.xxxxxxxx读取和操作状态）
 
 ## 实战Q
 1.  有些晕
