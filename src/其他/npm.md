@@ -10,7 +10,7 @@ npm config set registry http://registry.npmmirror.com
 npm install -g cnpm --registry=https://registry.npm.taobao.org
 
 //恢复npm官方
- npm_ config set registry https://registry.npmjs.org/
+ npm config set registry https://registry.npmjs.org/
 ```
 
 ### 下载nvm控制nodejs版本
