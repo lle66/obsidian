@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作记录/招商平台.md",
+                "file": "日志/8月.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nginx",
+                "query": "智慧园区",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作记录/招商平台.md"
+                "file": "日志/8月.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作记录/招商平台.md",
+                "file": "日志/8月.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作记录/招商平台.md",
+                "file": "日志/8月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,10 +206,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "76811772af84a0d5",
+  "active": "5a4d205f81b0fcd3",
   "lastOpenFiles": [
-    "日志/9月.md",
+    "工作记录/招商平台.md",
+    "日志/10月.md",
     "其他/npm.md",
+    "日志/9月.md",
+    "其他/账号.md",
     "生活事件/事件综合.md",
     "待办/nginx配置有问题.md",
     "技术Q.md",
@@ -223,7 +227,6 @@
     "逻辑与分类/思维模型.md",
     "待办任务.md",
     "分类下推思维导图.md",
-    "工作记录/招商平台.md",
     "其他/语录.md",
     "生活事件/拿不定主意的事情.md",
     "日志/8月.md",
@@ -235,7 +238,6 @@
     "信安/前三章内容.md",
     "工作记录/OA厂商.md",
     "待办/未命名.md",
-    "待办/个人规划.md",
     "图片/Pasted image 20230828161919.png",
     "图片/1693210299267.png",
     "图片/Pasted image 20230828160234.png",
