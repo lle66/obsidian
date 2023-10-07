@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/8月.md",
+                "file": "日志/10月.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/8月.md"
+                "file": "日志/10月.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/8月.md",
+                "file": "日志/10月.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/8月.md",
+                "file": "日志/10月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,6 +209,7 @@
   "active": "5a4d205f81b0fcd3",
   "lastOpenFiles": [
     "工作记录/招商平台.md",
+    "日志/8月.md",
     "日志/10月.md",
     "其他/npm.md",
     "日志/9月.md",
@@ -229,7 +230,6 @@
     "分类下推思维导图.md",
     "其他/语录.md",
     "生活事件/拿不定主意的事情.md",
-    "日志/8月.md",
     "工作记录/管委会OA系统打通.md",
     "图片/Pasted image 20230830162722.png",
     "前端",
