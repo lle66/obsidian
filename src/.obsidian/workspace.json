@@ -32,19 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1568584e432969c5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "web",
+                "query": "jira",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,7 +180,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1568584e432969c5",
+  "active": "62aaa6018ad107f7",
   "lastOpenFiles": [
     "信安/路径.md",
     "其他/npm.md",
