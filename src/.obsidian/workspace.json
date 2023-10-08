@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/10月.md",
+                "file": "其他/账号.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jira",
+                "query": "mysql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/10月.md"
+                "file": "其他/账号.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/10月.md",
+                "file": "其他/账号.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/10月.md",
+                "file": "其他/账号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,18 +182,19 @@
   },
   "active": "5111ca3ed4f59a68",
   "lastOpenFiles": [
+    "技术Q.md",
+    "其他/账号.md",
+    "其他/ruoyi-cloud.md",
+    "日志/10月.md",
     "Pasted image 20231008101250.png",
     "信安/路径.md",
     "其他/npm.md",
     "工作记录/招商平台.md",
     "信安/web-front-hacker揭秘.md",
-    "日志/10月.md",
     "日志/8月.md",
     "日志/9月.md",
-    "其他/账号.md",
     "生活事件/事件综合.md",
     "待办/nginx配置有问题.md",
-    "技术Q.md",
     "前端/React.md",
     "Pasted image 20230913141431.png",
     "其他/git.md",
@@ -218,7 +219,6 @@
     "图片/Pasted image 20230828160158.png",
     "图片/Pasted image 20230828143600.png",
     "图片/Pasted image 20230824093351.png",
-    "图片/Pasted image 20230817155310.png",
     "信安",
     "逻辑与分类",
     "生活事件",
