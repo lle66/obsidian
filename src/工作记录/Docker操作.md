@@ -17,3 +17,4 @@ docker restart 容器ID
 ```
 
 
+docker 安装的目录在哪里
