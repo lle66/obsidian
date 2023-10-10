@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作记录/Docker操作.md",
+                "file": "工作记录/前端部署.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/10月.md"
+                "file": "工作记录/前端部署.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/10月.md",
+                "file": "工作记录/前端部署.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/10月.md",
+                "file": "工作记录/前端部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,9 +192,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d66b265d7bf7f296",
+  "active": "dcd1913af8b0dbb8",
   "lastOpenFiles": [
     "工作记录/Docker操作.md",
+    "工作记录/前端部署.md",
     "日志/10月.md",
     "其他/账号.md",
     "其他/mysql.md",
@@ -222,7 +223,6 @@
     "分类下推思维导图.md",
     "其他/语录.md",
     "生活事件/拿不定主意的事情.md",
-    "工作记录/管委会OA系统打通.md",
     "图片/Pasted image 20230830162722.png",
     "前端",
     "图片/Pasted image 20230828161919.png",

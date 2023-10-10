@@ -22,3 +22,5 @@ docker 安装的目录在哪里
 
 
 K8S，就是基于容器的集群管理平台
+
+kubesphere  Rancher 是搭建一个K8S环境的可视化工具
