@@ -18,3 +18,7 @@ docker restart 容器ID
 
 
 docker 安装的目录在哪里
+
+
+
+K8S，就是基于容器的集群管理平台
