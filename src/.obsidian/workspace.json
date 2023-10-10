@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作记录/Docker操作.md",
+                "file": "工作记录/linux.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作记录/Docker操作.md"
+                "file": "工作记录/linux.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作记录/Docker操作.md",
+                "file": "工作记录/linux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作记录/Docker操作.md",
+                "file": "工作记录/linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,9 +207,10 @@
   },
   "active": "7782422d06dd7b84",
   "lastOpenFiles": [
+    "工作记录/Docker操作.md",
+    "工作记录/linux.md",
     "其他/常识.md",
     "日志/10月.md",
-    "工作记录/Docker操作.md",
     "信安/路径.md",
     "工作记录/前端部署.md",
     "其他/账号.md",
@@ -235,7 +236,6 @@
     "待办任务.md",
     "分类下推思维导图.md",
     "其他/语录.md",
-    "生活事件/拿不定主意的事情.md",
     "图片/Pasted image 20230830162722.png",
     "前端",
     "图片/Pasted image 20230828161919.png",
