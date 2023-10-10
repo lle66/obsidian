@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作记录/Docker操作.md",
+                "file": "其他/常识.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作记录/Docker操作.md"
+                "file": "其他/常识.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作记录/Docker操作.md",
+                "file": "其他/常识.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作记录/Docker操作.md",
+                "file": "其他/常识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,10 +194,10 @@
   },
   "active": "c78c95a3dcf2cbc3",
   "lastOpenFiles": [
+    "工作记录/Docker操作.md",
     "信安/路径.md",
     "工作记录/前端部署.md",
     "日志/10月.md",
-    "工作记录/Docker操作.md",
     "其他/账号.md",
     "其他/mysql.md",
     "技术Q.md",
