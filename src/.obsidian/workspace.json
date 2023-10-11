@@ -58,6 +58,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "359ba6530f39e376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "其他/账号.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -208,10 +221,10 @@
   "active": "1849297901954e74",
   "lastOpenFiles": [
     "工作记录/Docker操作.md",
+    "其他/账号.md",
     "日志/10月.md",
     "其他/常识.md",
     "工作记录/linux.md",
-    "其他/账号.md",
     "信安/路径.md",
     "工作记录/前端部署.md",
     "其他/mysql.md",

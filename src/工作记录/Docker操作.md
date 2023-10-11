@@ -10,13 +10,12 @@ docker pull ubuntu
 ```
 sudo docker run --name [容器名] -p [主机端口]:80  -v [主机禅道目录]:/www/zentaopms -v [主机mysql目录]:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=[数据库密码] -d easysoft/zentao:[镜像标签]
 ```
-2. 查看正在运行的容器
+3. 查看正在运行的容器
 ```
-docker ps
-```
-3. 重启容器
-```
-docker restart 容器ID
+docker ps //查看正在运行的容器
+docker restart 容器ID  //重启容器
+docker stop 容器ID  //暂停容器
+docker rm 255306ad2cc7 //移除容器
 ```
 4. 进入容器空间
 ```
