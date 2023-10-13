@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/账号.md",
+                "file": "日志/10月.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -221,9 +221,9 @@
   "active": "1849297901954e74",
   "lastOpenFiles": [
     "日志/10月.md",
-    "工作记录/禅道使用手册.md",
     "其他/账号.md",
     "工作记录/Docker操作.md",
+    "工作记录/禅道使用手册.md",
     "其他/常识.md",
     "工作记录/linux.md",
     "信安/路径.md",
