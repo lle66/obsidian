@@ -21,32 +21,6 @@
             }
           },
           {
-            "id": "d66b265d7bf7f296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工作记录/Docker操作.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c78c95a3dcf2cbc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "其他/常识.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1849297901954e74",
             "type": "leaf",
             "state": {
@@ -60,12 +34,12 @@
             }
           },
           {
-            "id": "359ba6530f39e376",
+            "id": "5d3dfe13b4b6aa20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "待办任务.md",
+                "file": "工作记录/项目管理工具对比.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +47,7 @@
             }
           },
           {
-            "id": "5d3dfe13b4b6aa20",
+            "id": "1e08c91afa2fad78",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d66b265d7bf7f296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作记录/Docker操作.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -231,14 +218,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "76811772af84a0d5",
+  "active": "1e08c91afa2fad78",
   "lastOpenFiles": [
+    "工作记录/Docker操作.md",
+    "日志/10月.md",
+    "日志/8月.md",
+    "工作记录/项目管理工具对比.md",
     "工作记录/禅道使用手册.md",
     "待办任务.md",
-    "日志/10月.md",
     "其他/常识.md",
     "其他/账号.md",
-    "工作记录/Docker操作.md",
     "工作记录/linux.md",
     "信安/路径.md",
     "工作记录/前端部署.md",
@@ -249,7 +238,6 @@
     "其他/npm.md",
     "工作记录/招商平台.md",
     "信安/web-front-hacker揭秘.md",
-    "日志/8月.md",
     "日志/9月.md",
     "生活事件/事件综合.md",
     "待办/nginx配置有问题.md",
@@ -261,7 +249,6 @@
     "生活事件/xyk逾期.md",
     "图片/65494788dbaefb0d13b80f8c4ad894f.jpg",
     "逻辑与分类/思维模型.md",
-    "分类下推思维导图.md",
     "图片/Pasted image 20230830162722.png",
     "前端",
     "图片/Pasted image 20230828161919.png",
