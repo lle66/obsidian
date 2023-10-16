@@ -21,6 +21,9 @@ docker rm 255306ad2cc7 //移除容器
 4. 进入容器空间
 ```
 docker exec -it zentao /bin/bash
+mysql -uroot -p123456 // 访问禅道数据库
+show databases; //查看MySQL库
+exit  //退出
 ```
 
 

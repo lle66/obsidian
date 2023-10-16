@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/10月.md",
+                "file": "工作记录/禅道使用手册.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66735161aa35a6c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日志/10月.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -218,20 +231,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1e08c91afa2fad78",
+  "active": "66735161aa35a6c0",
   "lastOpenFiles": [
+    "工作记录/需求认知.md",
     "工作记录/Docker操作.md",
     "日志/10月.md",
-    "日志/8月.md",
-    "工作记录/项目管理工具对比.md",
     "工作记录/禅道使用手册.md",
+    "其他/mysql.md",
+    "工作记录/项目管理工具对比.md",
+    "日志/8月.md",
     "待办任务.md",
     "其他/常识.md",
     "其他/账号.md",
     "工作记录/linux.md",
     "信安/路径.md",
     "工作记录/前端部署.md",
-    "其他/mysql.md",
     "技术Q.md",
     "其他/ruoyi-cloud.md",
     "Pasted image 20231008101250.png",
@@ -248,7 +262,6 @@
     "生活事件/退票.md",
     "生活事件/xyk逾期.md",
     "图片/65494788dbaefb0d13b80f8c4ad894f.jpg",
-    "逻辑与分类/思维模型.md",
     "图片/Pasted image 20230830162722.png",
     "前端",
     "图片/Pasted image 20230828161919.png",
