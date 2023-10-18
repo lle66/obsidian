@@ -84,9 +84,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4aeae2e66050594d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -231,7 +241,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "66735161aa35a6c0",
+  "active": "4aeae2e66050594d",
   "lastOpenFiles": [
     "工作记录/需求认知.md",
     "工作记录/Docker操作.md",
