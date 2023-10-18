@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "66735161aa35a6c0",
+            "id": "df419e61f20de3c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,19 +84,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4aeae2e66050594d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -241,11 +231,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4aeae2e66050594d",
+  "active": "76811772af84a0d5",
   "lastOpenFiles": [
-    "工作记录/需求认知.md",
     "工作记录/Docker操作.md",
+    "信安/第一章导图.md",
     "日志/10月.md",
+    "工作记录/需求认知.md",
     "工作记录/禅道使用手册.md",
     "其他/mysql.md",
     "工作记录/项目管理工具对比.md",
@@ -270,7 +261,6 @@
     "其他/git.md",
     "前端/typeScript.md",
     "生活事件/退票.md",
-    "生活事件/xyk逾期.md",
     "图片/65494788dbaefb0d13b80f8c4ad894f.jpg",
     "图片/Pasted image 20230830162722.png",
     "前端",
