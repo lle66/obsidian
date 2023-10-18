@@ -24,6 +24,14 @@
 2. css 盒模型有哪些
 3. 
 ### vue基础
+1. vue 各种组件通信方法（父子 子父 兄弟 爷孙 毫无关系的组件） 
+3. v-show和v-if指令的共同点和不同点  
+4. ``<keep-alive></keep-alive>的作用是什么?  
+5. .如何获取dom  
+6. .说出几种[vue](https://www.zhihu.com/search?q=vue&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22article%22%2C%22sourceId%22%3A%22151728272%22%7D)当中的指令和它的用法？  
+7. 为什么使用key
+8. Vue中[双向数据绑定](https://www.zhihu.com/search?q=%E5%8F%8C%E5%90%91%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22article%22%2C%22sourceId%22%3A%22151728272%22%7D)是如何实现的
+  
 
 ## 浏览器
 1. 缓存机制：强缓存、协商缓存（Last-Modified 或者 ETag）--如何解决版本更新问题，在文件名中添加 hash
