@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/前端xx相关.md",
+                "file": "日志/答案.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/前端xx相关.md"
+                "file": "日志/答案.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/前端xx相关.md",
+                "file": "日志/答案.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/前端xx相关.md",
+                "file": "日志/答案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,8 +233,9 @@
   },
   "active": "785ee6b564c58352",
   "lastOpenFiles": [
-    "日志/10月.md",
     "日志/前端xx相关.md",
+    "日志/答案.md",
+    "日志/10月.md",
     "工作记录/禅道使用手册.md",
     "工作记录/B2B 支付方案.md",
     "Pasted image 20230804171335.png.md",
@@ -259,7 +260,6 @@
     "日志/9月.md",
     "生活事件/事件综合.md",
     "待办/nginx配置有问题.md",
-    "前端/React.md",
     "Pasted image 20230913141431.png",
     "图片/65494788dbaefb0d13b80f8c4ad894f.jpg",
     "图片/Pasted image 20230830162722.png",
