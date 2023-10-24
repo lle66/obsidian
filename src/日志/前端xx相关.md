@@ -11,8 +11,6 @@
 ## 二、知识点
 
 ### js 基础
-1. 使用let、var和const创建变量有什么区别
-2. = =和= = =的区别是什么
 3. 讲DOM事件模型，如何阻止事件冒泡
 4. Promise
 5. JavaScript原型，原型链
@@ -66,10 +64,6 @@
 5. 少使用闭包
 6. CSS 放在文件头部，JavaScript文件放在底部，async和defer
 7. vue的代码：computed 和 watch，v-if 和 v-show，v-for ，合理组件化
-
-
-
-代码规范、git提交规范？
 
 ## 排查问题
 1. 页面卡顿
