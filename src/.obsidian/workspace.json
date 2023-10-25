@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/10月.md"
+                "file": "前端/前端代码规范.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/10月.md",
+                "file": "前端/前端代码规范.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/10月.md",
+                "file": "前端/前端代码规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,8 +218,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "418ba2c99008769f",
+  "active": "1e08c91afa2fad78",
   "lastOpenFiles": [
+    "日志/10月.md",
     "前端/前端代码规范.md",
     "工作记录/禅道使用手册.md",
     "前端/未命名.md",
@@ -227,7 +228,6 @@
     "工作记录/Docker操作.md",
     "工作记录/B2B 支付方案.md",
     "前端/前端部署.md",
-    "日志/10月.md",
     "其他/账号.md",
     "日志/答案.md",
     "日志/前端xx相关.md",
