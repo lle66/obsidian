@@ -99,3 +99,10 @@
 5. 发布流程：上传代码、提交审核、发布版本
 6. 支付流程：小程序需要将购买的商品Id，商品数量，以及用户的openId传送到服务器------->服务器生成服务期订单数据，同时经过一定的签名算法，向微信支付发送请求，获取到签名信息向小程序端响应必要的信息----->小程序端在获取对应的参数后，调用wx.requestPayment()发起微信支付----->展示支付结果
 # 移动端
+## 安卓
+- 通信 – 网络连接（HttpClient，HttpUrlConnetion），Socket
+- 据持久化 – SQLite，SharedPreferences，ContentProvider
+- 性能优化 – 布局优化，内存优化，电量优化
+- 安全 – 数据加密，代码混淆，WebView/Js调用，https
+- 四大组件
+- 设计模式： mvc mvp mvvm

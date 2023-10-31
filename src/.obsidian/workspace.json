@@ -128,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "openId",
+                "query": "三次",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -247,11 +247,12 @@
   },
   "active": "6191eb4191954492",
   "lastOpenFiles": [
-    "小程序/小程序开发.md",
-    "日志/前端xx相关.md",
+    "其他/常识.md",
     "其他/账号.md",
-    "其他/npm.md",
     "日志/10月.md",
+    "日志/前端xx相关.md",
+    "小程序/小程序开发.md",
+    "其他/npm.md",
     "前端/3D可视化.md",
     "工作记录/项目管理工具对比.md",
     "前端/前端代码规范.md",
@@ -262,7 +263,6 @@
     "前端/前端部署.md",
     "日志/答案.md",
     "Pasted image 20230804171335.png.md",
-    "其他/常识.md",
     "其他/linux.md",
     "信安/第一章导图.md",
     "工作记录/需求认知.md",
