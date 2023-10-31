@@ -106,3 +106,29 @@
 - 安全 – 数据加密，代码混淆，WebView/Js调用，https
 - 四大组件
 - 设计模式： mvc mvp mvvm
+- https://cloud.tencent.com/developer/article/2089359
+## iOS
+1. tableView 有什么好的性能优化方案？
+2. 如何降低APP包的大小？
+3. 启动时间如何优化
+4. 谈谈你对离屏渲染的理解？
+5. iOS中数据持久化方案有哪些？
+	NSUserDefault 简单数据快速读写
+	Property list (属性列表)文件存储
+	Archiver (归档)
+	SQLite 本地数据库
+	CoreData（是iOS5之后才出现的一个框架，本质上是对SQLite的一个封装，它提供了对象-关系映射(ORM)的功能，即能够将OC对象转化成数据，保存在SQLite数据库文件中，也能够将保存在数据库中的数据还原成OC对象，通过CoreData管理应用程序的数据模型）
+https://www.jianshu.com/p/98f2bacf9fb2
+
+
+## UI
+1. **你接到一个项目后，设计思路是怎么样的？**
+2. **iOS和Android的APP设计区别是什么** ？**你之前的项目需要适配哪些版本?你怎么做的?**
+3. ## **你是怎么决定一个产品的配色的**
+4. 有没有已上线的项目
+5. 在 UI 设计中，PC 端和移动端有什么区别？体现在哪些方面
+![[Pasted image 20231031175325.png]]
+
+![[Pasted image 20231031175451.png]]
+https://www.zhihu.com/tardis/zm/art/40533921?source_id=1003
+https://zhuanlan.zhihu.com/p/134111417

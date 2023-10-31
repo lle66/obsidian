@@ -84,22 +84,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6191eb4191954492",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日志/前端xx相关.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -185,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/前端xx相关.md"
+                "file": "其他/账号.md"
               }
             }
           },
@@ -195,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/前端xx相关.md",
+                "file": "其他/账号.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/前端xx相关.md",
+                "file": "其他/账号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,12 +232,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6191eb4191954492",
+  "active": "a5c9756749b369d5",
   "lastOpenFiles": [
+    "日志/前端xx相关.md",
+    "Pasted image 20231031175451.png",
+    "Pasted image 20231031175325.png",
     "其他/常识.md",
+    "Pasted image 20231031172400.png",
+    "Pasted image 20231031172318.png",
+    "Pasted image 20231031171703.png",
     "其他/账号.md",
     "日志/10月.md",
-    "日志/前端xx相关.md",
     "小程序/小程序开发.md",
     "其他/npm.md",
     "前端/3D可视化.md",
@@ -273,17 +265,11 @@
     "技术Q.md",
     "其他/ruoyi-cloud.md",
     "Pasted image 20231008101250.png",
-    "工作记录/招商平台.md",
     "Pasted image 20230913141431.png",
     "图片/65494788dbaefb0d13b80f8c4ad894f.jpg",
     "图片/Pasted image 20230830162722.png",
     "前端",
     "图片/Pasted image 20230828161919.png",
-    "图片/1693210299267.png",
-    "图片/Pasted image 20230828160234.png",
-    "图片/Pasted image 20230828160158.png",
-    "图片/Pasted image 20230828143600.png",
-    "图片/Pasted image 20230824093351.png",
     "信安",
     "逻辑与分类",
     "生活事件",
