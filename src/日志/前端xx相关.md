@@ -77,3 +77,22 @@
 
 # 项目中遇到什么难题
 遇到什么兼容性问题如何解决
+
+
+# 小程序
+1. 微信小程序生命周期：应用生命周期(onLaunch全局触发一次、onShow、onHide、onError)、页面生命周期（onLoad、onShow、onReady、onHide）、组件生命周期(created加载、attached、ready初次渲染完成)
+
+2. 常见的微信小程序页面跳转方式有如下：
+	- wx.navigateTo(Object)
+	- wx.redirectTo(Object)
+	- wx.switchTab(Object)
+	- wx.navigateBack(Object)
+	- wx.reLaunch(Object)
+3. 提示小程序性能的手段有哪些？---可以从加载、渲染两个维度进行切入
+	加载：
+	 - 及时清理无用的代码和资源文件、压缩代码体积、图片资源使用网络下载
+	- 分包加载：将用户访问率高的页面放在主包里，将访问率低的页面放入子包里，按需加载
+	渲染
+	-  不要过于频繁调用setData，应考虑将多次setData合并成一次setData调用
+	- 骨架屏
+# 移动端
