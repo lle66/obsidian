@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活事件/zw.md",
+                "file": "日志/10月.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活事件/zw.md"
+                "file": "日志/10月.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活事件/zw.md",
+                "file": "日志/10月.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活事件/zw.md",
+                "file": "日志/10月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,10 +233,10 @@
   },
   "active": "418ba2c99008769f",
   "lastOpenFiles": [
+    "前端/前端代码规范.md",
     "生活事件/拿不定主意的事情.md",
     "生活事件/zw.md",
     "前端/3D可视化.md",
-    "前端/前端代码规范.md",
     "日志/10月.md",
     "其他/账号.md",
     "日志/前端xx相关.md",
