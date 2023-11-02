@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活事件/拿不定主意的事情.md",
+                "file": "生活事件/zw.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/3D可视化.md"
+                "file": "生活事件/zw.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/3D可视化.md",
+                "file": "生活事件/zw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/3D可视化.md",
+                "file": "生活事件/zw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,9 +231,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "56cced8902a89115",
+  "active": "418ba2c99008769f",
   "lastOpenFiles": [
     "生活事件/拿不定主意的事情.md",
+    "生活事件/zw.md",
+    "前端/3D可视化.md",
     "前端/前端代码规范.md",
     "日志/10月.md",
     "其他/账号.md",
@@ -246,7 +248,6 @@
     "Pasted image 20231031171703.png",
     "小程序/小程序开发.md",
     "其他/npm.md",
-    "前端/3D可视化.md",
     "工作记录/项目管理工具对比.md",
     "工作记录/禅道使用手册.md",
     "前端/未命名.md",
@@ -263,7 +264,6 @@
     "待办任务.md",
     "信安/路径.md",
     "技术Q.md",
-    "其他/ruoyi-cloud.md",
     "Pasted image 20231008101250.png",
     "Pasted image 20230913141431.png",
     "图片/65494788dbaefb0d13b80f8c4ad894f.jpg",
