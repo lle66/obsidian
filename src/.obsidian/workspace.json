@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作记录/禅道使用手册.md"
+                "file": "工作记录/Docker操作.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作记录/禅道使用手册.md",
+                "file": "工作记录/Docker操作.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作记录/禅道使用手册.md",
+                "file": "工作记录/Docker操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,18 +206,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1849297901954e74",
+  "active": "83d486585e1e91ff",
   "lastOpenFiles": [
-    "工作记录/Docker操作.md",
     "工作记录/禅道使用手册.md",
     "日志/11月.md",
+    "其他/账号.md",
+    "工作记录/Docker操作.md",
     "其他/linux.md",
     "日志/10月.md",
     "前端/前端代码规范.md",
     "生活事件/拿不定主意的事情.md",
     "生活事件/zw.md",
     "前端/3D可视化.md",
-    "其他/账号.md",
     "日志/前端xx相关.md",
     "Pasted image 20231031175451.png",
     "Pasted image 20231031175325.png",
