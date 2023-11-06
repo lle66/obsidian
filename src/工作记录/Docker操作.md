@@ -25,7 +25,7 @@ mysql -uroot -p123456 // 访问禅道数据库
 show databases; //查看MySQL库
 exit  //退出
 ```
-
+docker images  //查看镜像
 
 
 # docker禅道容器迁移方法
