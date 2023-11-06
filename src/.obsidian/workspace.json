@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/10月.md",
+                "file": "日志/11月.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/10月.md"
+                "file": "日志/11月.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/10月.md",
+                "file": "日志/11月.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/10月.md",
+                "file": "日志/11月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,11 +233,12 @@
   },
   "active": "418ba2c99008769f",
   "lastOpenFiles": [
+    "日志/10月.md",
+    "日志/11月.md",
     "前端/前端代码规范.md",
     "生活事件/拿不定主意的事情.md",
     "生活事件/zw.md",
     "前端/3D可视化.md",
-    "日志/10月.md",
     "其他/账号.md",
     "日志/前端xx相关.md",
     "Pasted image 20231031175451.png",
@@ -263,7 +264,6 @@
     "日志/8月.md",
     "待办任务.md",
     "信安/路径.md",
-    "技术Q.md",
     "Pasted image 20231008101250.png",
     "Pasted image 20230913141431.png",
     "图片/65494788dbaefb0d13b80f8c4ad894f.jpg",
