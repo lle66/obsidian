@@ -3,9 +3,11 @@ Docker作为一个软件[集装箱化](https://www.zhihu.com/search?q=%E9%9B%86%
 K8S，就是基于docker容器的集群管理平台
 kubesphere  Rancher 是搭建一个K8S环境的 容器管理平台可视化工具 ，一个Pod代表着集群中运行的一个进程
 # 基本操作
+## 创建运行容器
 1. 拉取镜像文件
 ```
 docker pull ubuntu
+docker images  //查看镜像
 ```
 2. 从镜像运行容器
 ```
@@ -13,7 +15,8 @@ sudo docker run --name [容器名] -p [主机端口]:80  -v [主机禅道目录]
 ```
 3. 查看正在运行的容器
 ```
-docker ps //查看正在运行的容器
+docker ps //查看正在运行的容器  -a 查看所有容器
+docker start 容器ID   // 启动容器
 docker restart 容器ID  //重启容器
 docker stop 容器ID  //暂停容器
 docker rm 255306ad2cc7 //移除容器
@@ -25,7 +28,16 @@ mysql -uroot -p123456 // 访问禅道数据库
 show databases; //查看MySQL库
 exit  //退出
 ```
-docker images  //查看镜像
+
+## docker自启动设置
+```
+systemctl status docker //查看docker状态
+sudo systemctl restart docker // docker 重启
+systemctl enable docker //设置docker开机自启 
+docker update --restart=always 容器ID    // 更新已有容器配置
+docker start 容器ID   // 启动容器
+```
+
 
 
 # docker禅道容器迁移方法
