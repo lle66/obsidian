@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/11月.md",
+                "file": "其他/账号.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "账号",
+                "query": "集团OA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/11月.md"
+                "file": "其他/账号.md"
               }
             }
           },
@@ -168,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/11月.md",
+                "file": "其他/账号.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/11月.md",
+                "file": "其他/账号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,8 +221,8 @@
   },
   "active": "31385f565c9a0f3c",
   "lastOpenFiles": [
-    "日志/10月.md",
     "日志/11月.md",
+    "日志/10月.md",
     "其他/账号.md",
     "信安/前端安全.md",
     "Pasted image 20231108165346.png",
