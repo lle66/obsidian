@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "3a3fdf16205981d6",
+            "id": "83707e65017e8503",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -71,22 +71,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "08341859972f334c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日志/11月.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -231,12 +218,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "08341859972f334c",
+  "active": "31385f565c9a0f3c",
   "lastOpenFiles": [
-    "日志/10月.md",
     "其他/账号.md",
-    "信安/前端安全.md",
     "日志/11月.md",
+    "日志/10月.md",
+    "信安/前端安全.md",
     "Pasted image 20231108165346.png",
     "工作记录/禅道使用.md",
     "工作记录/外包考勤.md",
