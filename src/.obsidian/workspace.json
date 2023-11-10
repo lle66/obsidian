@@ -89,8 +89,13 @@
             "id": "f9d7d1b09b22113b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "前端/typeScript.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -178,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "前端/typeScript.md"
+              }
             }
           },
           {
@@ -187,6 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "前端/typeScript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,6 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "前端/typeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
