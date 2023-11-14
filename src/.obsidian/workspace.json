@@ -85,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作记录/禅道使用.md"
+                "file": "工作记录/Docker操作.md"
               }
             }
           },
@@ -181,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作记录/禅道使用.md",
+                "file": "工作记录/Docker操作.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作记录/禅道使用.md",
+                "file": "工作记录/Docker操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,13 +230,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f9d7d1b09b22113b",
+  "active": "1849297901954e74",
   "lastOpenFiles": [
+    "其他/账号.md",
+    "工作记录/禅道使用.md",
+    "工作记录/Docker操作.md",
     "日志/10月.md",
     "日志/11月.md",
-    "工作记录/Docker操作.md",
-    "工作记录/禅道使用.md",
-    "其他/账号.md",
     "前端/typeScript.md",
     "信安/前端安全.md",
     "图片/Pasted image 20231008101250.png",
