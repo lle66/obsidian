@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/11月.md",
+                "file": "待办/nginx配置.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "禅道",
+                "query": "nginx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +140,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/账号.md"
+                "file": "待办/nginx配置.md"
               }
             }
           },
@@ -181,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/账号.md",
+                "file": "待办/nginx配置.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/账号.md",
+                "file": "待办/nginx配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,12 +232,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1b22e24216141d27",
+  "active": "434efbe0d339976f",
   "lastOpenFiles": [
+    "其他/账号.md",
+    "技术Q.md",
     "日志/11月.md",
+    "日志/9月.md",
+    "待办/nginx配置.md",
+    "日志/前端xx相关.md",
     "其他/快捷键.md",
     "工作记录/外包考勤.md",
-    "其他/账号.md",
     "工作记录/禅道使用.md",
     "工作记录/Docker操作.md",
     "日志/10月.md",
@@ -244,7 +249,6 @@
     "信安/前端安全.md",
     "图片/Pasted image 20231008101250.png",
     "图片/Pasted image 20230913141431.png",
-    "日志/前端xx相关.md",
     "图片/Pasted image 20231108165346.png",
     "其他/金融.md",
     "图片/Pasted image 20231106170822.png",
@@ -266,9 +270,6 @@
     "前端/未命名.md",
     "工作记录/B2B 支付方案.md",
     "前端/前端部署.md",
-    "日志/答案.md",
-    "图片/Pasted image 20230804171335.png.md",
-    "信安/第一章导图.md",
     "前端",
     "信安",
     "逻辑与分类",
