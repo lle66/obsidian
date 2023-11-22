@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nginx",
+                "query": "nacos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/11月.md"
+                "file": "其他/账号.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/11月.md",
+                "file": "其他/账号.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/11月.md",
+                "file": "其他/账号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,15 +206,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a5c9756749b369d5",
+  "active": "1b22e24216141d27",
   "lastOpenFiles": [
+    "日志/11月.md",
+    "其他/ruoyi-cloud.md",
     "信安/前端安全.md",
     "其他/快捷键.md",
     "其他/账号.md",
     "待办/nginx配置.md",
     "工作记录/Docker操作.md",
     "技术Q.md",
-    "日志/11月.md",
     "日志/9月.md",
     "日志/前端xx相关.md",
     "工作记录/外包考勤.md",
@@ -242,7 +244,6 @@
     "工作记录/项目管理工具对比.md",
     "前端/未命名.md",
     "工作记录/B2B 支付方案.md",
-    "前端/前端部署.md",
     "前端",
     "信安",
     "逻辑与分类",
