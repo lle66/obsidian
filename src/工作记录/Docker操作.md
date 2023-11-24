@@ -8,6 +8,7 @@ kubesphere  Rancher 是搭建一个K8S环境的 容器管理平台可视化工�
 ```
 docker pull ubuntu
 docker images  //查看镜像
+docker rmi 镜像id //删除容器
 ```
 2. 从镜像运行容器
 ```
