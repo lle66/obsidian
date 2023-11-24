@@ -1,15 +1,39 @@
-## 命令
+
+基于 CentOS 7 下安装配置 Nginx 操作实践记录整理。
+### 一、配置 EPEL 源
+
+```javascript
+sudo yum install -y epel-release
+sudo yum -y update
+```
+
+### 二、安装 Nginx
+
+```javascript
+sudo yum install -y nginx
+```
+
+安装成功后，默认的网站目录为： /usr/share/nginx/html
+默认的配置文件为：/etc/nginx/nginx.conf
+自定义配置文件目录为: /etc/nginx/conf.d/
+
+### 三、开启端口 80 和 443
+如果你的[服务器](https://cloud.tencent.com/act/pro/promotion-cvm?from_column=20065&from=20065)打开了防火墙，你需要运行下面的命令，打开 80 和 443 端口。
+```javascript
+sudo firewall-cmd --permanent --zone=public --add-service=http
+sudo firewall-cmd --permanent --zone=public --add-service=https
+sudo firewall-cmd --reload
+```
+
+### 命令
 ```java
-sudo apt-get update
-sudo apt-get install nginx //安装nginx
 systemctl start nginx //启动nginx
 nginx -t //检查配置报错
 nginx -s reload //重新加载配置
 // Nginx的配置文件位于/etc/nginx/nginx.conf
-
 ```
 
-以下是一个简单的Nginx配置文件：
+## 以下是一个简单的Nginx配置文件：
 
 ```text
 http {
