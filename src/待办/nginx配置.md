@@ -171,3 +171,31 @@ http {
 }
 
 ```
+
+
+load_module /usr/lib/nginx/modules/ngx_stream_module.so;
+worker_processes auto;
+events {
+    worker_connections  1024;
+    accept_mutex on;
+  }
+http {
+  include mime.types;
+  default_type application/octet-stream;
+  server {
+    listen 81;
+    location /prod-api/ {
+      proxy_pass http://10.10.103.4:8080/;
+      proxy_set_header Host $host;
+      proxy_set_header X-Real-IP $remote_addr;
+      proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+      proxy_set_header X-Forwarded-Host $http_host;
+      proxy_set_header X-Forwarded-Port $server_port;
+      proxy_set_header X-Forwarded-Proto $scheme;
+    }
+    location / {
+      root /usr/share/nginx/factory-admin;
+      index index.html;
+    }
+  }
+}
