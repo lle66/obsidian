@@ -23,6 +23,9 @@ sudo yum install -y nginx
 sudo firewall-cmd --permanent --zone=public --add-service=http
 sudo firewall-cmd --permanent --zone=public --add-service=https
 sudo firewall-cmd --reload
+
+
+firewall-cmd --zone=public --add-port=1935/tcp --permanent //开启指定端口
 ```
 
 ### 命令
