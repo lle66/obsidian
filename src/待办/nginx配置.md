@@ -112,6 +112,9 @@ location / {
   }
 ```
 
+**代理访问失败connect() to 10.10.103.4:8080 failed (13: Permission denied) while connecting to upstream
+
+setsebool -P httpd_can_network_connect 1
 
 ## 纪委小程序nginx老配置
 ```

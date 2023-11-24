@@ -55,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/11月.md"
+                "file": "待办/nginx配置.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/11月.md",
+                "file": "待办/nginx配置.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/11月.md",
+                "file": "待办/nginx配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,10 +201,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a5c9756749b369d5",
+  "active": "1b22e24216141d27",
   "lastOpenFiles": [
-    "待办/nginx配置.md",
     "日志/11月.md",
+    "待办/nginx配置.md",
     "其他/账号.md",
     "工作记录/Docker操作.md",
     "信安/前端安全.md",
