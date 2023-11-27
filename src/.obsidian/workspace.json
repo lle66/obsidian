@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "node",
+                "query": "npm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,10 +208,11 @@
   },
   "active": "a5c9756749b369d5",
   "lastOpenFiles": [
+    "其他/npm.md",
+    "日志/11月.md",
     "待办/nginx配置.md",
     "其他/账号.md",
     "工作记录/Docker操作.md",
-    "日志/11月.md",
     "其他/ruoyi-cloud.md",
     "信安/前端安全.md",
     "未命名.md",
@@ -240,7 +242,6 @@
     "图片/Pasted image 20231031172400.png",
     "图片/Pasted image 20231031172318.png",
     "小程序/小程序开发.md",
-    "其他/npm.md",
     "工作记录/项目管理工具对比.md",
     "前端/未命名.md",
     "前端",

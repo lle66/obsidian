@@ -11,6 +11,7 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 
 //恢复npm官方
  npm config set registry https://registry.npmjs.org/
+ npm config set registry https://registry.npm.taobao.org
 ```
 
 ### 下载nvm控制nodejs版本
