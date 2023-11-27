@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "npm",
+                "query": "scp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,9 +209,9 @@
   "active": "18257f04c90c8384",
   "lastOpenFiles": [
     "日志/11月.md",
+    "其他/账号.md",
     "其他/npm.md",
     "待办/nginx配置.md",
-    "其他/账号.md",
     "其他/gitlab-runner.md",
     "工作记录/Docker操作.md",
     "其他/ruoyi-cloud.md",
