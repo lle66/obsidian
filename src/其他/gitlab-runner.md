@@ -14,7 +14,7 @@ gitlab-runner register  --url http://10.10.104.216:8080  --token glrt-do29zMJcCm
 
 
 ### 报错
-测试命令打包后---资源文件不显示 ----node版本问题？----nginx配置问题？10.16能修复图标问题以及import问题  14.17.5也可以，-----
+测试命令打包后---资源文件不显示 ----node版本问题？----nginx配置问题？10.16能修复图标问题以及import问题  14.17.5也可以，-----16.18.1 图片恢复正常？？
 
  gitlab地址连接失败，如何去修改ip配置----改了gitlab配置
  gitlab报错fatal: unable to access 'http://gitlab-ci-token:[MASKED]------项目成员把自己加进去

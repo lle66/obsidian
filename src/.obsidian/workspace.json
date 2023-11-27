@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "待办/nginx配置.md"
+                "file": "其他/gitlab-runner.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "待办/nginx配置.md",
+                "file": "其他/gitlab-runner.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "待办/nginx配置.md",
+                "file": "其他/gitlab-runner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,11 +218,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1b22e24216141d27",
+  "active": "a5c9756749b369d5",
   "lastOpenFiles": [
-    "其他/gitlab-runner.md",
     "日志/11月.md",
     "待办/nginx配置.md",
+    "其他/gitlab-runner.md",
     "其他/账号.md",
     "其他/npm.md",
     "工作记录/Docker操作.md",
