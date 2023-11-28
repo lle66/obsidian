@@ -22,4 +22,4 @@ gitlab-runner register  --url http://10.10.104.216:8080  --token glrt-do29zMJcCm
 
 fatal: git fetch-pack: expected shallow list,fatal:----setting--ci/cd 第一项展开git clone 勾上
 
-npm 拉包速度慢-----改完镜像之后---跑不起来了。。。
+npm 拉包速度慢-----改完镜像之后---跑不起来了------装minio包7.0.18----node_modules 缓存问题 ----要删缓存包！
