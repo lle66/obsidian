@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/账号.md",
+                "file": "工作记录/外包考勤.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -127,8 +127,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,10 +220,11 @@
   },
   "active": "a5c9756749b369d5",
   "lastOpenFiles": [
-    "待办/nginx配置.md",
+    "工作记录/外包考勤.md",
     "日志/11月.md",
     "其他/gitlab-runner.md",
     "其他/账号.md",
+    "待办/nginx配置.md",
     "其他/npm.md",
     "工作记录/Docker操作.md",
     "其他/ruoyi-cloud.md",
@@ -234,7 +234,6 @@
     "技术Q.md",
     "日志/9月.md",
     "日志/前端xx相关.md",
-    "工作记录/外包考勤.md",
     "工作记录/禅道使用.md",
     "日志/10月.md",
     "前端/typeScript.md",
