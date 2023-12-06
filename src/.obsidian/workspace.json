@@ -58,19 +58,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c38dd1063e6c9549",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "其他/账号.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 3
@@ -220,10 +207,10 @@
   },
   "active": "18257f04c90c8384",
   "lastOpenFiles": [
-    "工作记录/外包考勤.md",
-    "日志/11月.md",
     "其他/账号.md",
     "日志/12月.md",
+    "工作记录/外包考勤.md",
+    "日志/11月.md",
     "日志/10月.md",
     "生活事件/Q技巧.md",
     "日志/答案.md",
