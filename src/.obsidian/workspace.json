@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9bc235b90d17f703",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "其他/账号.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -127,8 +140,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/12月.md"
+                "file": "其他/账号.md"
               }
             }
           },
@@ -169,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/12月.md",
+                "file": "其他/账号.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/12月.md",
+                "file": "其他/账号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +231,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "18257f04c90c8384",
+  "active": "76811772af84a0d5",
   "lastOpenFiles": [
     "其他/常识.md",
     "日志/12月.md",
