@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "saas",
+                "query": "数据库",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +140,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,7 +232,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "76811772af84a0d5",
+  "active": "62aaa6018ad107f7",
   "lastOpenFiles": [
     "其他/常识.md",
     "日志/12月.md",
