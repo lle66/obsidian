@@ -60,12 +60,22 @@
             }
           },
           {
+            "id": "6ccdb443a06b5165",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "d7e3fcbc646d1d6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/12月.md",
+                "file": "待办/nginx配置.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "考勤",
+                "query": "firewall-cmd ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/12月.md"
+                "file": "日志/OA方案.md"
               }
             }
           },
@@ -168,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/12月.md",
+                "file": "日志/OA方案.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/12月.md",
+                "file": "日志/OA方案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +208,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -218,17 +231,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d7e3fcbc646d1d6b",
+  "active": "6ccdb443a06b5165",
   "lastOpenFiles": [
-    "日志/OA方案.md",
     "日志/OA.md",
-    "其他/账号.md",
-    "工作记录/外包考勤.md",
-    "日志/12月.md",
+    "待办/nginx配置.md",
     "工作记录/Docker操作.md",
+    "日志/11月.md",
+    "其他/账号.md",
+    "工作记录/禅道使用.md",
+    "日志/12月.md",
+    "日志/OA方案.md",
+    "工作记录/外包考勤.md",
     "其他/npm.md",
     "其他/常识.md",
-    "日志/11月.md",
     "前端/angular.md",
     "日志/10月.md",
     "Pasted image 20231206183602.png",
@@ -236,7 +251,6 @@
     "生活事件/Q技巧.md",
     "日志/答案.md",
     "其他/gitlab-runner.md",
-    "待办/nginx配置.md",
     "其他/ruoyi-cloud.md",
     "信安/前端安全.md",
     "未命名.md",
@@ -244,7 +258,6 @@
     "技术Q.md",
     "日志/9月.md",
     "日志/前端xx相关.md",
-    "工作记录/禅道使用.md",
     "前端/typeScript.md",
     "图片/Pasted image 20231008101250.png",
     "图片/Pasted image 20230913141431.png",
