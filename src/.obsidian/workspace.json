@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/账号.md",
+                "file": "其他/npm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/1月.md",
+                "file": "日志/2024.1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nvm",
+                "query": "npm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/1月.md"
+                "file": "日志/2024.1.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/1月.md",
+                "file": "日志/2024.1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/1月.md",
+                "file": "日志/2024.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,12 +194,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ff8b9ed087f6b34d",
+  "active": "76811772af84a0d5",
   "lastOpenFiles": [
-    "工作记录/外包考勤.md",
+    "其他/npm.md",
     "其他/账号.md",
+    "日志/2024.1.md",
+    "工作记录/外包考勤.md",
     "日志/5-6月.md",
-    "日志/1月.md",
     "待办/nginx配置.md",
     "日志/OA方案.md",
     "日志/OA.md",
@@ -207,7 +208,6 @@
     "日志/11月.md",
     "工作记录/禅道使用.md",
     "日志/12月.md",
-    "其他/npm.md",
     "其他/常识.md",
     "前端/angular.md",
     "日志/10月.md",

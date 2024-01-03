@@ -5,9 +5,11 @@ npm install --global yarn
 ### taobao镜像
 有些包，国内镜像拉取会报错(包不同步、包缺少)，建议恢复原始地址
 
+
 ```text
 npm config set registry http://registry.npmmirror.com 
 npm install -g cnpm --registry=https://registry.npm.taobao.org
+npm config get registry  //查看
 
 //恢复npm官方
  npm config set registry https://registry.npmjs.org/
