@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/2024.1.md"
+                "file": "工作记录/外包考勤.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/2024.1.md",
+                "file": "工作记录/外包考勤.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/2024.1.md",
+                "file": "工作记录/外包考勤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,11 +193,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "76811772af84a0d5",
+  "active": "18257f04c90c8384",
   "lastOpenFiles": [
+    "日志/2024.1.md",
     "其他/npm.md",
     "其他/账号.md",
-    "日志/2024.1.md",
     "工作记录/外包考勤.md",
     "日志/5-6月.md",
     "待办/nginx配置.md",
