@@ -39,6 +39,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "日志/12月.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "082ccbecc47c9b80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "日志/2024.1.md",
                 "mode": "source",
                 "backlinks": false,
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,10 +207,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ff8b9ed087f6b34d",
+  "active": "082ccbecc47c9b80",
   "lastOpenFiles": [
-    "工作记录/外包考勤.md",
+    "日志/12月.md",
     "日志/2024.1.md",
+    "工作记录/外包考勤.md",
     "其他/npm.md",
     "其他/账号.md",
     "日志/5-6月.md",
@@ -207,7 +221,6 @@
     "工作记录/Docker操作.md",
     "日志/11月.md",
     "工作记录/禅道使用.md",
-    "日志/12月.md",
     "其他/常识.md",
     "前端/angular.md",
     "日志/10月.md",
