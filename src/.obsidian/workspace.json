@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/2024.1.md",
+                "file": "日志/10月.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "npm",
+                "query": "gitlab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/2024.1.md"
+                "file": "其他/账号.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/2024.1.md",
+                "file": "其他/账号.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/2024.1.md",
+                "file": "其他/账号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,12 +208,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ff8b9ed087f6b34d",
+  "active": "082ccbecc47c9b80",
   "lastOpenFiles": [
+    "日志/10月.md",
+    "日志/7月.md",
+    "日志/8月.md",
+    "日志/9月.md",
+    "日志/2024.1.md",
     "日志/12月.md",
     "其他/账号.md",
     "工作记录/外包考勤.md",
-    "日志/2024.1.md",
     "其他/npm.md",
     "日志/5-6月.md",
     "待办/nginx配置.md",
@@ -223,7 +228,6 @@
     "工作记录/禅道使用.md",
     "其他/常识.md",
     "前端/angular.md",
-    "日志/10月.md",
     "Pasted image 20231206183602.png",
     "Pasted image 20231206164822.png",
     "生活事件/Q技巧.md",
@@ -234,9 +238,6 @@
     "未命名.md",
     "其他/快捷键.md",
     "技术Q.md",
-    "日志/9月.md",
-    "日志/前端xx相关.md",
-    "前端/typeScript.md",
     "图片/Pasted image 20231008101250.png",
     "图片/Pasted image 20230913141431.png",
     "图片/Pasted image 20231108165346.png",
