@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/2024.1.md"
+                "file": "其他/账号.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/2024.1.md",
+                "file": "其他/账号.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/2024.1.md",
+                "file": "其他/账号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,10 +207,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ff8b9ed087f6b34d",
+  "active": "082ccbecc47c9b80",
   "lastOpenFiles": [
-    "其他/账号.md",
     "日志/2024.1.md",
+    "其他/账号.md",
     "工作记录/外包考勤.md",
     "日志/10月.md",
     "日志/7月.md",
