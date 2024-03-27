@@ -47,16 +47,6 @@
             }
           },
           {
-            "id": "8a9701b00cb53449",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
             "id": "082ccbecc47c9b80",
             "type": "leaf",
             "state": {
@@ -70,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,7 +207,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8a9701b00cb53449",
+  "active": "ff8b9ed087f6b34d",
   "lastOpenFiles": [
     "其他/账号.md",
     "日志/2024.1.md",
