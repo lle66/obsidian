@@ -47,6 +47,16 @@
             }
           },
           {
+            "id": "8a9701b00cb53449",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
             "id": "082ccbecc47c9b80",
             "type": "leaf",
             "state": {
@@ -60,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5124969482422
+    "width": 200
   },
   "right": {
     "id": "59a5e2378786ed0c",
@@ -207,7 +217,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ff8b9ed087f6b34d",
+  "active": "8a9701b00cb53449",
   "lastOpenFiles": [
     "其他/账号.md",
     "日志/2024.1.md",
