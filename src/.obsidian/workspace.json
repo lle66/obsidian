@@ -45,19 +45,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "082ccbecc47c9b80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "其他/账号.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -89,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gitlab",
+                "query": "制章",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 333.5
   },
   "right": {
     "id": "59a5e2378786ed0c",
@@ -207,18 +194,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ff8b9ed087f6b34d",
+  "active": "76811772af84a0d5",
   "lastOpenFiles": [
     "其他/账号.md",
+    "日志/10月.md",
+    "日志/5-6月.md",
     "日志/2024.1.md",
     "工作记录/外包考勤.md",
-    "日志/10月.md",
     "日志/7月.md",
     "日志/8月.md",
     "日志/9月.md",
     "日志/12月.md",
     "其他/npm.md",
-    "日志/5-6月.md",
     "待办/nginx配置.md",
     "日志/OA方案.md",
     "日志/OA.md",
