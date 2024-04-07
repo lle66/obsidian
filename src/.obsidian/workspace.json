@@ -32,19 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0e497b5326c72505",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +181,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0e497b5326c72505",
+  "active": "2cf13336b2901e15",
   "lastOpenFiles": [
     "其他/账号.md",
     "日志/2024.3.md",
