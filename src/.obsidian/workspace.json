@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff8b9ed087f6b34d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "其他/账号.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2cf13336b2901e15",
             "type": "leaf",
             "state": {
@@ -118,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/账号.md"
+                "file": "日志/2024.3.md"
               }
             }
           },
@@ -128,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/账号.md",
+                "file": "日志/2024.3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/账号.md",
+                "file": "日志/2024.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,11 +167,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ff8b9ed087f6b34d",
+  "active": "2cf13336b2901e15",
   "lastOpenFiles": [
+    "其他/账号.md",
     "日志/2024.3.md",
     "Pasted image 20240415164750.png",
-    "其他/账号.md",
     "Pasted image 20240407105906.png",
     "日志/2024.1.md",
     "信安/第二章-网络攻击.md",
