@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/账号.md",
+                "file": "其他/信息系统管理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/前端xx相关.md"
+                "file": "其他/信息系统管理.md"
               }
             }
           },
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/前端xx相关.md",
+                "file": "其他/信息系统管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/前端xx相关.md",
+                "file": "其他/信息系统管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,12 +181,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "76811772af84a0d5",
+  "active": "d67a2f31c10eff9a",
   "lastOpenFiles": [
+    "其他/账号.md",
+    "前端/前端xx相关.md",
     "日志/10月.md",
     "日志/2024.3-5.md",
     "其他/信息系统管理.md",
-    "其他/账号.md",
     "日志/2024.1.md",
     "日志/8月.md",
     "日志/安全评估报告.md",
@@ -211,7 +213,6 @@
     "Pasted image 20231206164822.png",
     "生活事件/Q技巧.md",
     "日志/答案.md",
-    "其他/gitlab-runner.md",
     "图片/Pasted image 20231008101250.png",
     "图片/Pasted image 20230913141431.png",
     "图片/Pasted image 20231108165346.png",
