@@ -23,15 +23,35 @@
 1. 实现两栏布局有哪些方法
 2. css 盒模型有哪些
 
-### vue基础
-1. vue 各种组件通信方法（父子 子父 兄弟 爷孙 毫无关系的组件） 
-3. v-show和v-if指令的共同点和不同点  
-4. ``<keep-alive></keep-alive>的作用是什么?  
+### vue基础 
 5. .如何获取dom  
 6. .说出几种[vue](https://www.zhihu.com/search?q=vue&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22article%22%2C%22sourceId%22%3A%22151728272%22%7D)当中的指令和它的用法？  
 7. 为什么使用key
-8. Vue中[双向数据绑定](https://www.zhihu.com/search?q=%E5%8F%8C%E5%90%91%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22article%22%2C%22sourceId%22%3A%22151728272%22%7D)是如何实现的
-  
+- [vue笔面试题汇总(上篇)](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-1 "vue笔面试题汇总(上篇)")
+    - [1. 谈一谈对 MVVM 的理解？](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-2 "1. 谈一谈对 MVVM 的理解？")
+    - [2. 说一下 Vue 的优点](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-3 "2. 说一下 Vue 的优点")
+    - [3. 解释一下对 Vue 生命周期的理解](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-4 "3. 解释一下对 Vue 生命周期的理解")
+    - [4. Vue 实现双向数据绑定原理是什么？](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-5 "4. Vue 实现双向数据绑定原理是什么？")
+    - [5. 说一下对 Vue2.x 响应式原理的理解](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-6 "5. 说一下对 Vue2.x 响应式原理的理解")
+    - [6. 说一下在 Vue2.x 中如何检测数组的变化？](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-7 "6. 说一下在 Vue2.x 中如何检测数组的变化？")
+    - [7. Vue3.x 响应式数据](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-8 "7. Vue3.x 响应式数据")
+    - [8. v-model 双向绑定的原理是什么？](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-9 "8. v-model 双向绑定的原理是什么？")
+    - [9. vue2.x 和 vuex3.x 渲染器的 diff 算法分别说一下？](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-10 "9. vue2.x 和 vuex3.x 渲染器的 diff 算法分别说一下？")
+    - [10. vue 组件的参数传递](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-11 "10. vue 组件的参数传递") vue 各种组件通信方法（父子 子父 兄弟 爷孙 毫无关系的组件） 
+    - [11. Vue 的路由实现](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-12 "11. Vue 的路由实现")
+    - [12. vuex 是什么？怎么使用它？什么场景下我们会使用到 vuex](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-13 "12. vuex 是什么？怎么使用它？什么场景下我们会使用到 vuex")
+    - [13. 说一下 v-if 与 v-show 的区别](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-14 "13. 说一下 v-if 与 v-show 的区别")
+    - [14. 如何让 CSS 值在当前的组件中起作用](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-15 "14. 如何让 CSS 值在当前的组件中起作用")
+    - [15. keep-alive 相关](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-16 "15. keep-alive 相关")
+    - [16. Vue 中如何进行组件的使用？Vue 如何实现全局组件的注册？](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-17 "16. Vue 中如何进行组件的使用？Vue 如何实现全局组件的注册？")
+    - [18. nextTick 的作用是什么？他的实现原理是什么？](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-19 "18. nextTick 的作用是什么？他的实现原理是什么？")
+    - [20. Vue 组件的 data 为什么必须是函数](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-21 "20. Vue 组件的 data 为什么必须是函数")
+    - [21. 说一下 Vue 的 computed 的实现原理](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-22 "21. 说一下 Vue 的 computed 的实现原理")
+    - [23. vue 如何快速定位那个组件出现性能问题的]
+    - [24. Proxy 相比 defineProperty 的优势在哪里](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-25 "24. Proxy 相比 defineProperty 的优势在哪里")
+    - [25. Vue 与 Angular 以及 React 的区别是什么？]
+    - [26. 说一下 watch 与 computed 的区别是什么？以及他们的使用场景分别是什么？](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-27 "26. 说一下 watch 与 computed 的区别是什么？以及他们的使用场景分别是什么？")
+    - [27. scoped 是如何实现样式穿透的？](https://juejin.cn/post/7208005892313579576?searchId=20240509091507AF92B4EEA19A5A75C852#heading-28 "27. scoped 是如何实现样式穿透的？")
 
 ## 浏览器
 1. 缓存机制：强缓存、协商缓存（Last-Modified 或者 ETag）--如何解决版本更新问题，在文件名中添加 hash
