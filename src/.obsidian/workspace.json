@@ -68,9 +68,22 @@
                 "file": "信安/第一章导图.md"
               }
             }
+          },
+          {
+            "id": "31c765dc31a1f13b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "信安/智慧充电.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信安/第一章导图.md"
+                "file": "信安/智慧充电.md"
               }
             }
           },
@@ -165,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信安/第一章导图.md",
+                "file": "信安/智慧充电.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信安/第一章导图.md",
+                "file": "信安/智慧充电.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,10 +230,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f71bb5118b654147",
+  "active": "31c765dc31a1f13b",
   "lastOpenFiles": [
-    "未命名思维导图.md",
     "信安/第一章导图.md",
+    "信安/智慧充电.md",
+    "未命名思维导图.md",
     "待办/nginx配置.md",
     "其他/信息系统管理.md",
     "前端/前端xx相关.md",
@@ -248,7 +262,6 @@
     "其他/npm.md",
     "日志/OA方案.md",
     "日志/OA.md",
-    "日志/11月.md",
     "Pasted image 20231206183602.png",
     "Pasted image 20231206164822.png",
     "图片/Pasted image 20231008101250.png",
