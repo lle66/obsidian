@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/账号.md",
+                "file": "其他/npm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "禅道",
+                "query": "node",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,11 +150,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 377.5
   },
   "right": {
     "id": "59a5e2378786ed0c",
@@ -181,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/账号.md"
+                "file": "其他/npm.md"
               }
             }
           },
@@ -191,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/账号.md",
+                "file": "其他/npm.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/账号.md",
+                "file": "其他/npm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,9 +246,9 @@
   },
   "active": "31c765dc31a1f13b",
   "lastOpenFiles": [
+    "其他/账号.md",
     "信安/智慧充电.md",
     "日志/2024.3-5.md",
-    "其他/账号.md",
     "日志/10月.md",
     "Pasted image 20240524113828.png",
     "日志/5-6月.md",
