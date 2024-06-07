@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/npm.md",
+                "file": "其他/账号.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/npm.md"
+                "file": "其他/账号.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/npm.md",
+                "file": "其他/账号.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/npm.md",
+                "file": "其他/账号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,6 +246,7 @@
   },
   "active": "31c765dc31a1f13b",
   "lastOpenFiles": [
+    "其他/npm.md",
     "其他/账号.md",
     "信安/智慧充电.md",
     "日志/2024.3-5.md",
@@ -276,7 +277,6 @@
     "日志/7月.md",
     "日志/9月.md",
     "日志/12月.md",
-    "其他/npm.md",
     "日志/OA方案.md",
     "Pasted image 20231206183602.png",
     "Pasted image 20231206164822.png",
